@@ -15,7 +15,9 @@
         "adresse": "1 rue de la Libération",
         "commune": "LA PLAINE-SUR-MER",
         "code_postal": "44770",
-        "id_tourinsoft": "LOILA0013PDL044V5005HW"
+        "id_tourinsoft": "LOILA0013PDL044V5005HW",
+        "telephone": "02 51 74 81 92",
+        "site_internet": "http://mediatheque.laplainesurmer.fr"
       }
     },
     {
@@ -32,7 +34,9 @@
         "adresse": "7 avenue du Maréchal Foch",
         "commune": "SAINT-BREVIN-LES-PINS",
         "code_postal": "44250",
-        "id_tourinsoft": "LOILATELIERVELO44PINS"
+        "id_tourinsoft": "LOILATELIERVELO44PINS",
+        "telephone": "02 40 39 75 27",
+        "site_internet": "https://www.ateliervelo44.com/"
       }
     },
     {
@@ -49,7 +53,9 @@
         "adresse": "9 rue du Général Leclerc",
         "commune": "LE POULIGUEN",
         "code_postal": "44510",
-        "id_tourinsoft": "LOILBIKEVASIONLP"
+        "id_tourinsoft": "LOILBIKEVASIONLP",
+        "telephone": "02 40 24 09 10",
+        "site_internet": "http://www.bikevasion.fr"
       }
     },
     {
@@ -66,7 +72,9 @@
         "adresse": "Le Pas Renaud",
         "commune": "PORNIC",
         "code_postal": "44210",
-        "id_tourinsoft": "LOILLHIRONDELLE"
+        "id_tourinsoft": "LOILLHIRONDELLE",
+        "telephone": "02 51 74 02 62",
+        "site_internet": "http://www.associationhirondelle.fr"
       }
     },
     {
@@ -83,7 +91,9 @@
         "adresse": "Parc du Château de la Rousselière",
         "commune": "FROSSAY",
         "code_postal": "44320",
-        "id_tourinsoft": "LOILLOIPDL044000121"
+        "id_tourinsoft": "LOILLOIPDL044000121",
+        "telephone": "02 40 39 79 59",
+        "site_internet": "http://www.definature.com"
       }
     },
     {
@@ -100,7 +110,9 @@
         "adresse": "Route des Carris",
         "commune": "FROSSAY",
         "code_postal": "44320",
-        "id_tourinsoft": "LOILLOIPDL044V50120Q"
+        "id_tourinsoft": "LOILLOIPDL044V50120Q",
+        "telephone": "02 28 53 51 62",
+        "site_internet": "http://www.quai-vert.com"
       }
     },
     {
@@ -117,7 +129,9 @@
         "adresse": "Les Chalets - Le Lac",
         "commune": "SAINT-VIAUD",
         "code_postal": "44320",
-        "id_tourinsoft": "LOILLOIPDL044V503QXA"
+        "id_tourinsoft": "LOILLOIPDL044V503QXA",
+        "telephone": "06 20 60 89 95",
+        "site_internet": "https://www.tsn44.com/wakepark-saint-viaud"
       }
     },
     {
@@ -134,7 +148,8 @@
         "adresse": "Salle Marcel Baudry",
         "commune": "LE POULIGUEN",
         "code_postal": "44510",
-        "id_tourinsoft": "LOILMICROFOLIELP"
+        "id_tourinsoft": "LOILMICROFOLIELP",
+        "telephone": "07 64 47 36 10"
       }
     },
     {
@@ -151,7 +166,9 @@
         "adresse": "19, avenue du Gulf Stream",
         "commune": "PORNICHET",
         "code_postal": "44380",
-        "id_tourinsoft": "LOILUP2PLAY"
+        "id_tourinsoft": "LOILUP2PLAY",
+        "telephone": "02 19 000 400",
+        "site_internet": "https://www.up2play.fr/pornichet/"
       }
     },
     {
@@ -168,7 +185,9 @@
         "adresse": "Quai de la Motte Rouge",
         "commune": "NANTES",
         "code_postal": "44008",
-        "id_tourinsoft": "LOIPDL044000164"
+        "id_tourinsoft": "LOIPDL044000164",
+        "telephone": "02.40.14.51.14",
+        "site_internet": "https://www.bateaux-nantais.fr"
       }
     },
     {
@@ -185,7 +204,9 @@
         "adresse": "15 Moulin de Plessard",
         "commune": "CLISSON",
         "code_postal": "44190",
-        "id_tourinsoft": "LOIPDL044V5002YJ"
+        "id_tourinsoft": "LOIPDL044V5002YJ",
+        "telephone": "02 40 54 39 59",
+        "site_internet": "http://www.ckclisson.fr/"
       }
     },
     {
@@ -202,7 +223,9 @@
         "adresse": "1 route du Lac",
         "commune": "SAINT-JULIEN-DE-CONCELLES",
         "code_postal": "44450",
-        "id_tourinsoft": "LOIPDL044V50B9P8"
+        "id_tourinsoft": "LOIPDL044V50B9P8",
+        "telephone": "02 40 36 85 79",
+        "site_internet": "http://capsn.org/"
       }
     },
     {
@@ -219,7 +242,9 @@
         "adresse": "",
         "commune": "SAINT-LUMINE-DE-COUTAIS",
         "code_postal": "44310",
-        "id_tourinsoft": "LOIPDL044V50HGQB"
+        "id_tourinsoft": "LOIPDL044V50HGQB",
+        "telephone": "06 09 95 44 84",
+        "site_internet": "http://payzanes.wixsite.com/payzanes"
       }
     },
     {
@@ -236,7 +261,9 @@
         "adresse": "5 Boulevard de la Gare",
         "commune": "NORT-SUR-ERDRE",
         "code_postal": "44390",
-        "id_tourinsoft": "LOIPDL044V50L3IF"
+        "id_tourinsoft": "LOIPDL044V50L3IF",
+        "telephone": "06 73 01 72 44",
+        "site_internet": "https://cyclyo.fr/location/"
       }
     },
     {
@@ -253,7 +280,9 @@
         "adresse": "21 quai Ernest Renaud",
         "commune": "NANTES",
         "code_postal": "44100",
-        "id_tourinsoft": "LOIPDL044V50M32B"
+        "id_tourinsoft": "LOIPDL044V50M32B",
+        "telephone": "06 79 35 83 89",
+        "site_internet": "https://lepoupoupidou.fr/"
       }
     },
     {
@@ -270,7 +299,9 @@
         "adresse": "Lieu-dit Le Pommain",
         "commune": "SAFFRE",
         "code_postal": "44390",
-        "id_tourinsoft": "LOIPDL044V510617"
+        "id_tourinsoft": "LOIPDL044V510617",
+        "telephone": "06 71 48 29 75",
+        "site_internet": "https://canalkayak.fr/#/"
       }
     },
     {
@@ -287,7 +318,9 @@
         "adresse": "172 Rue Paul Bellamy",
         "commune": "NANTES",
         "code_postal": "44000",
-        "id_tourinsoft": "LOIPDL044V51J3WJ"
+        "id_tourinsoft": "LOIPDL044V51J3WJ",
+        "telephone": "02 40 02 91 43",
+        "site_internet": "https://lecyclenantais.fr/"
       }
     },
     {
@@ -304,7 +337,8 @@
         "adresse": "18 Avenue Jean Burel",
         "commune": "SAINT-NICOLAS-DE-REDON",
         "code_postal": "44460",
-        "id_tourinsoft": "LOIPDL044V51JKDW"
+        "id_tourinsoft": "LOIPDL044V51JKDW",
+        "telephone": "02 99 93 34 32"
       }
     },
     {
@@ -321,7 +355,9 @@
         "adresse": "778 Boulevard de la Prairie",
         "commune": "ANCENIS-SAINT-GEREON",
         "code_postal": "44150",
-        "id_tourinsoft": "LOIPDL044V51L93A"
+        "id_tourinsoft": "LOIPDL044V51L93A",
+        "telephone": "02 40 09 18 29",
+        "site_internet": "https://www.decathlon.fr/store-view/magasin-de-sports-decathlon-ancenis-saint-gereon-0070072100721"
       }
     },
     {
@@ -338,7 +374,9 @@
         "adresse": "",
         "commune": "SAINT-NAZAIRE",
         "code_postal": "44600",
-        "id_tourinsoft": "LOIPDL044V51NS0X"
+        "id_tourinsoft": "LOIPDL044V51NS0X",
+        "telephone": "02 28 54 06 40",
+        "site_internet": "https://www.saint-nazaire-tourisme.com/"
       }
     },
     {
@@ -355,7 +393,9 @@
         "adresse": "Rue de la Gare",
         "commune": "OUDON",
         "code_postal": "44521",
-        "id_tourinsoft": "LOIPDL049V5023B6"
+        "id_tourinsoft": "LOIPDL049V5023B6",
+        "telephone": "06 85 39 59 42",
+        "site_internet": "http://www.locationkayak-loire.com"
       }
     },
     {
@@ -372,7 +412,9 @@
         "adresse": "Avenue de Saint-Goustan",
         "commune": "LE CROISIC",
         "code_postal": "44490",
-        "id_tourinsoft": "LOIUOCEARIUM"
+        "id_tourinsoft": "LOIUOCEARIUM",
+        "telephone": "02 40 23 02 44",
+        "site_internet": "http://www.ocearium-croisic.fr"
       }
     }
   ]
