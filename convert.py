@@ -111,6 +111,12 @@ def main():
         if site:
             fiche["site_internet"] = site
 
+        # Préparer le lien pour uMap.
+        # Aucun lien si le site internet est absent.
+        fiche["lien_site"] = (
+            f"🌐 [[{site}|Site internet]]" if site else ""
+        )
+
         features.append({
             "type": "Feature",
             "geometry": {
@@ -137,3 +143,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+  
