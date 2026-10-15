@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.19055,
+          47.13775
+        ]
+      },
+      "properties": {
+        "name": "Médiathèque Joseph Rousse",
+        "adresse": "1 rue de la Libération",
+        "commune": "LA PLAINE-SUR-MER",
+        "code_postal": "44770",
+        "id_tourinsoft": "LOILA0013PDL044V5005HW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16661,
+          47.24625
+        ]
+      },
+      "properties": {
+        "name": "ATELIER VÉLO 44",
+        "adresse": "7 avenue du Maréchal Foch",
+        "commune": "SAINT-BREVIN-LES-PINS",
+        "code_postal": "44250",
+        "id_tourinsoft": "LOILATELIERVELO44PINS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.42891,
+          47.27834
+        ]
+      },
+      "properties": {
+        "name": "Bikevasion",
+        "adresse": "9 rue du Général Leclerc",
+        "commune": "LE POULIGUEN",
+        "code_postal": "44510",
+        "id_tourinsoft": "LOILBIKEVASIONLP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.03824,
+          47.11253
+        ]
+      },
+      "properties": {
+        "name": "Association Hirondelle",
+        "adresse": "Le Pas Renaud",
+        "commune": "PORNIC",
+        "code_postal": "44210",
+        "id_tourinsoft": "LOILLHIRONDELLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95229,
+          47.23611
+        ]
+      },
+      "properties": {
+        "name": "DÉFI NATURE",
+        "adresse": "Parc du Château de la Rousselière",
+        "commune": "FROSSAY",
+        "code_postal": "44320",
+        "id_tourinsoft": "LOILLOIPDL044000121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.91553,
+          47.25847
+        ]
+      },
+      "properties": {
+        "name": "QUAI VERT",
+        "adresse": "Route des Carris",
+        "commune": "FROSSAY",
+        "code_postal": "44320",
+        "id_tourinsoft": "LOILLOIPDL044V50120Q"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0148,
+          47.2616
+        ]
+      },
+      "properties": {
+        "name": "TÉLÉSKI NAUTIQUE TSN  44",
+        "adresse": "Les Chalets - Le Lac",
+        "commune": "SAINT-VIAUD",
+        "code_postal": "44320",
+        "id_tourinsoft": "LOILLOIPDL044V503QXA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.43043,
+          47.27546
+        ]
+      },
+      "properties": {
+        "name": "Micro-Folie",
+        "adresse": "Salle Marcel Baudry",
+        "commune": "LE POULIGUEN",
+        "code_postal": "44510",
+        "id_tourinsoft": "LOILMICROFOLIELP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3051,
+          47.25786
+        ]
+      },
+      "properties": {
+        "name": "UP2PLAY",
+        "adresse": "19, avenue du Gulf Stream",
+        "commune": "PORNICHET",
+        "code_postal": "44380",
+        "id_tourinsoft": "LOILUP2PLAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5516964,
+          47.227977
+        ]
+      },
+      "properties": {
+        "name": "BATEAUX NANTAIS",
+        "adresse": "Quai de la Motte Rouge",
+        "commune": "NANTES",
+        "code_postal": "44008",
+        "id_tourinsoft": "LOIPDL044000164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2795375,
+          47.0967276
+        ]
+      },
+      "properties": {
+        "name": "Canoë Kayak de Clisson",
+        "adresse": "15 Moulin de Plessard",
+        "commune": "CLISSON",
+        "code_postal": "44190",
+        "id_tourinsoft": "LOIPDL044V5002YJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.36902,
+          47.2525
+        ]
+      },
+      "properties": {
+        "name": "Base de loisirs Cap Sports et Nature",
+        "adresse": "1 route du Lac",
+        "commune": "SAINT-JULIEN-DE-CONCELLES",
+        "code_postal": "44450",
+        "id_tourinsoft": "LOIPDL044V50B9P8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.70079,
+          47.05006
+        ]
+      },
+      "properties": {
+        "name": "PAYZ'ÂNES",
+        "adresse": "",
+        "commune": "SAINT-LUMINE-DE-COUTAIS",
+        "code_postal": "44310",
+        "id_tourinsoft": "LOIPDL044V50HGQB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5031463,
+          47.4418789
+        ]
+      },
+      "properties": {
+        "name": "LOCATION DE VELO CYCL'YO",
+        "adresse": "5 Boulevard de la Gare",
+        "commune": "NORT-SUR-ERDRE",
+        "code_postal": "44390",
+        "id_tourinsoft": "LOIPDL044V50L3IF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5750603,
+          47.2048459
+        ]
+      },
+      "properties": {
+        "name": "L'ATELIER DU POUPOUPIDOU",
+        "adresse": "21 quai Ernest Renaud",
+        "commune": "NANTES",
+        "code_postal": "44100",
+        "id_tourinsoft": "LOIPDL044V50M32B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.632818,
+          47.4551705
+        ]
+      },
+      "properties": {
+        "name": "CANAL KAYAK",
+        "adresse": "Lieu-dit Le Pommain",
+        "commune": "SAFFRE",
+        "code_postal": "44390",
+        "id_tourinsoft": "LOIPDL044V510617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5633029,
+          47.2305163
+        ]
+      },
+      "properties": {
+        "name": "Le Cycle Nantais",
+        "adresse": "172 Rue Paul Bellamy",
+        "commune": "NANTES",
+        "code_postal": "44000",
+        "id_tourinsoft": "LOIPDL044V51J3WJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07472,
+          47.64532
+        ]
+      },
+      "properties": {
+        "name": "Decathlon Redon - Location de matériel sportif",
+        "adresse": "18 Avenue Jean Burel",
+        "commune": "SAINT-NICOLAS-DE-REDON",
+        "code_postal": "44460",
+        "id_tourinsoft": "LOIPDL044V51JKDW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.19693,
+          47.37464
+        ]
+      },
+      "properties": {
+        "name": "Décathlon",
+        "adresse": "778 Boulevard de la Prairie",
+        "commune": "ANCENIS-SAINT-GEREON",
+        "code_postal": "44150",
+        "id_tourinsoft": "LOIPDL044V51L93A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2130288,
+          47.2740959
+        ]
+      },
+      "properties": {
+        "name": "SAINT-NAZAIRE RENVERSANTE",
+        "adresse": "",
+        "commune": "SAINT-NAZAIRE",
+        "code_postal": "44600",
+        "id_tourinsoft": "LOIPDL044V51NS0X"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2917728,
+          47.3421116
+        ]
+      },
+      "properties": {
+        "name": "L.A. Kayak",
+        "adresse": "Rue de la Gare",
+        "commune": "OUDON",
+        "code_postal": "44521",
+        "id_tourinsoft": "LOIPDL049V5023B6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.52376,
+          47.29964
+        ]
+      },
+      "properties": {
+        "name": "Océarium du Croisic",
+        "adresse": "Avenue de Saint-Goustan",
+        "commune": "LE CROISIC",
+        "code_postal": "44490",
+        "id_tourinsoft": "LOIUOCEARIUM"
+      }
+    }
+  ]
+}
