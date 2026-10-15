@@ -103,6 +103,8 @@ def main():
             "commune": field(props, "Commune"),
             "code_postal": field(props, "CodePostal"),
             "id_tourinsoft": object_id,
+            "latitude": lat,
+            "longitude": lon,
         }
 
         if telephone:
@@ -143,4 +145,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-  
