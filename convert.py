@@ -1,12 +1,15 @@
 
 import json
 import urllib.request
-import urllib.parse
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from urllib.parse import urlsplit
 
-URL = "https://api-v3.tourinsoft.com/api/syndications/cdt44.tourinsoft.com/fe1d0351-e715-4163-8710-898a74aca525"
-CONTACTS_URL = "https://wcf.tourinsoft.com/Syndication/3.0/cdt44/fe1d0351-e715-4163-8710-898a74aca525"
+URL = (
+    "https://wcf.tourinsoft.com/Syndication/3.0/cdt44/"
+    "fe1d0351-e715-4163-8710-898a74aca525/"
+    "Objects?$expand=MoyenCommunications"
+)
 
 NS = {
     "atom": "http://www.w3.org/2005/Atom",
@@ -20,97 +23,93 @@ def field(properties, name):
     return (element.text or "").strip() if element is not None else ""
 
 
-def fetch_xml(url):
-    request = urllib.request.Request(
-        url, headers={"User-Agent": "LA-Gourde-Carto/1.0"}
-    )
-    with urllib.request.urlopen(request, timeout=60) as response:
-        return ET.fromstring(response.read())
+def contacts(entry):
+    telephones = {}
+    site = ""
 
-
-def get_contacts(object_id):
-    safe_id = urllib.parse.quote(object_id, safe="")
-    url = f"{CONTACTS_URL}/Objects('{safe_id}')/MoyenCommunications"
-
-    root = fetch_xml(url)
-    telephone = ""
-    site_internet = ""
-
-    for entry in root.findall("atom:entry", NS):
-        props = entry.find("atom:content/m:properties", NS)
-        if props is None:
+    for link in entry.findall("atom:link", NS):
+        if link.get("title") != "MoyenCommunications":
             continue
 
-        valeur = field(props, "Coordonnees")
-        code_element = props.find(
-            "d:Moyendecommunication/d:ThesCode", NS
-        )
-        code = (
-            (code_element.text or "").strip()
-            if code_element is not None
-            else ""
-        )
+        for contact in link.findall("m:inline/atom:feed/atom:entry", NS):
+            props = contact.find("atom:content/m:properties", NS)
+            if props is None:
+                continue
 
-        if code == "C1" and valeur and not telephone:
-            telephone = valeur
-        elif code == "C5" and valeur and not site_internet:
-            if valeur.startswith(("https://", "http://")):
-                site_internet = valeur
-            else:
-                site_internet = "https://" + valeur
+            valeur = field(props, "Coordonnees")
+            code_element = props.find(
+                "d:Moyendecommunication/d:ThesCode", NS
+            )
+            code = (
+                (code_element.text or "").strip()
+                if code_element is not None else ""
+            )
 
-    return telephone, site_internet
+            if code in ("C1", "C6") and valeur:
+                telephones.setdefault(code, valeur)
+
+            if code == "C5" and valeur and not site:
+                if not valeur.startswith(("http://", "https://")):
+                    valeur = "https://" + valeur
+
+                parsed = urlsplit(valeur)
+                if parsed.scheme in ("http", "https") and parsed.netloc:
+                    site = valeur
+
+    return telephones.get("C1") or telephones.get("C6", ""), site
 
 
 def main():
-    root = fetch_xml(URL)
-    entries = root.findall("atom:entry", NS)
+    request = urllib.request.Request(
+        URL, headers={"User-Agent": "LA-Gourde-Carto/1.0"}
+    )
 
+    with urllib.request.urlopen(request, timeout=60) as response:
+        root = ET.fromstring(response.read())
+
+    entries = root.findall("atom:entry", NS)
     if not entries:
-        raise RuntimeError(
-            "Aucune fiche dans le flux : fichier existant conservé."
-        )
+        raise RuntimeError("Flux vide : GeoJSON conservé.")
 
     features = []
 
     for entry in entries:
-        properties = entry.find("atom:content/m:properties", NS)
-        if properties is None:
+        props = entry.find("atom:content/m:properties", NS)
+        if props is None:
             continue
 
         try:
-            lat = float(field(properties, "Latitude").replace(",", "."))
-            lon = float(field(properties, "Longitude").replace(",", "."))
+            lat = float(field(props, "Latitude").replace(",", "."))
+            lon = float(field(props, "Longitude").replace(",", "."))
         except ValueError:
             continue
 
         if not (-90 <= lat <= 90 and -180 <= lon <= 180):
             continue
 
-        name = (
-            field(properties, "NomOffre")
-            or field(properties, "SyndicObjectName")
+        name = field(props, "NomOffre") or field(
+            props, "SyndicObjectName"
         )
-        object_id = field(properties, "SyndicObjectID")
+        object_id = field(props, "SyndicObjectID")
 
         if not name or not object_id:
             continue
 
-        telephone, site_internet = get_contacts(object_id)
+        telephone, site = contacts(entry)
 
         fiche = {
             "name": name,
-            "adresse": field(properties, "Adresse"),
-            "commune": field(properties, "Commune"),
-            "code_postal": field(properties, "CodePostal"),
+            "adresse": field(props, "Adresse"),
+            "commune": field(props, "Commune"),
+            "code_postal": field(props, "CodePostal"),
             "id_tourinsoft": object_id,
         }
 
         if telephone:
             fiche["telephone"] = telephone
 
-        if site_internet:
-            fiche["site_internet"] = site_internet
+        if site:
+            fiche["site_internet"] = site
 
         features.append({
             "type": "Feature",
@@ -123,13 +122,10 @@ def main():
 
     if not features:
         raise RuntimeError(
-            "Aucune fiche géolocalisée : fichier existant conservé."
+            "Aucun établissement géolocalisé : GeoJSON conservé."
         )
 
-    result = {
-        "type": "FeatureCollection",
-        "features": features,
-    }
+    result = {"type": "FeatureCollection", "features": features}
 
     Path("la_gourde.geojson").write_text(
         json.dumps(result, ensure_ascii=False, indent=2) + "\n",
