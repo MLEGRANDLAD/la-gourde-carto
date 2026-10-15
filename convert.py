@@ -113,10 +113,15 @@ def main():
         if site:
             fiche["site_internet"] = site
 
-        # Préparer le lien pour uMap.
-        # Aucun lien si le site internet est absent.
+        # Lien du site internet, uniquement s'il existe.
         fiche["lien_site"] = (
             f"🌐 [[{site}|Site internet]]" if site else ""
+        )
+
+        # Lien Google Maps vers les coordonnées GPS exactes.
+        fiche["lien_itineraire"] = (
+            f"➡️ [[https://www.google.com/maps/dir/"
+            f"?api=1&destination={lat}%2C{lon}|M'y rendre]]"
         )
 
         features.append({
