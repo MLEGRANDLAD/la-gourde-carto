@@ -2771,6 +2771,820 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.1908053,
+          47.4156915
+        ]
+      },
+      "properties": {
+        "name": "Le 7 de Table",
+        "adresse": "580 rue de l'Industrie",
+        "commune": "MESANGER",
+        "code_postal": "44522",
+        "id_tourinsoft": "RESPDL0440001866",
+        "latitude": 47.4156915,
+        "longitude": -1.1908053,
+        "telephone": "02 51 14 04 14",
+        "site_internet": "https://www.restaurant-cave-le7detable.fr/",
+        "lien_site": "🌐 [[https://www.restaurant-cave-le7detable.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.4156915%2C-1.1908053|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2497649,
+          47.0757979
+        ]
+      },
+      "properties": {
+        "name": "Restaurant Brut",
+        "adresse": "12 place Fournil",
+        "commune": "GETIGNE",
+        "code_postal": "44190",
+        "id_tourinsoft": "RESPDL044V5003BK",
+        "latitude": 47.0757979,
+        "longitude": -1.2497649,
+        "telephone": "02 40 13 25 57",
+        "site_internet": "https://www.brut-getigne.fr/",
+        "lien_site": "🌐 [[https://www.brut-getigne.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.0757979%2C-1.2497649|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.348572,
+          47.3253125
+        ]
+      },
+      "properties": {
+        "name": "Auberge le Vieux Cellier",
+        "adresse": "16 Route de Paris",
+        "commune": "LE CELLIER",
+        "code_postal": "44850",
+        "id_tourinsoft": "RESPDL044V500A2M",
+        "latitude": 47.3253125,
+        "longitude": -1.348572,
+        "telephone": "02 40 25 40 07",
+        "site_internet": "http://www.aubergelevieuxcellier.fr",
+        "lien_site": "🌐 [[http://www.aubergelevieuxcellier.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3253125%2C-1.348572|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3462489,
+          47.3190634
+        ]
+      },
+      "properties": {
+        "name": "Le Clos du Cellier",
+        "adresse": "1 place du Mémorial",
+        "commune": "LE CELLIER",
+        "code_postal": "44850",
+        "id_tourinsoft": "RESPDL044V500A3E",
+        "latitude": 47.3190634,
+        "longitude": -1.3462489,
+        "telephone": "02 40 25 38 45",
+        "site_internet": "http://www.restaurantleclosducellier.fr/",
+        "lien_site": "🌐 [[http://www.restaurantleclosducellier.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3190634%2C-1.3462489|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1784981,
+          47.3657633
+        ]
+      },
+      "properties": {
+        "name": "Restaurant Doc Brown",
+        "adresse": "43 Rue d'Anjou",
+        "commune": "ANCENIS-SAINT-GEREON",
+        "code_postal": "44150",
+        "id_tourinsoft": "RESPDL044V50AYON",
+        "latitude": 47.3657633,
+        "longitude": -1.1784981,
+        "telephone": "02 40 09 98 05",
+        "site_internet": "https://restaurant-docbrown.fr/",
+        "lien_site": "🌐 [[https://restaurant-docbrown.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3657633%2C-1.1784981|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7160543,
+          47.4706085
+        ]
+      },
+      "properties": {
+        "name": "TERRASSE GOURMANDE ÉCLUSE LE TERRIER",
+        "adresse": "Maison éclusière - écluse Le Terrier",
+        "commune": "BLAIN",
+        "code_postal": "44130",
+        "id_tourinsoft": "RESPDL044V50BRLU",
+        "latitude": 47.4706085,
+        "longitude": -1.7160543,
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.4706085%2C-1.7160543|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2887166,
+          47.3456813
+        ]
+      },
+      "properties": {
+        "name": "Le Café du Hâvre",
+        "adresse": "230 Rue Alphonse Fouschard",
+        "commune": "OUDON",
+        "code_postal": "44521",
+        "id_tourinsoft": "RESPDL044V50EYTH",
+        "latitude": 47.3456813,
+        "longitude": -1.2887166,
+        "telephone": "02 40 09 57 25",
+        "site_internet": "http://www.lecafeduhavre.com",
+        "lien_site": "🌐 [[http://www.lecafeduhavre.com|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3456813%2C-1.2887166|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5604713,
+          47.4427813
+        ]
+      },
+      "properties": {
+        "name": "LA CUEILLEUSE - CAFE - FOURNIL - JARDIN - ECLUSE - BIVOUAC",
+        "adresse": "Ecluse de Cramezeul",
+        "commune": "NORT-SUR-ERDRE",
+        "code_postal": "44390",
+        "id_tourinsoft": "RESPDL044V50HT19",
+        "latitude": 47.4427813,
+        "longitude": -1.5604713,
+        "telephone": "07 86 53 60 01",
+        "site_internet": "http://lacueilleuse.com",
+        "lien_site": "🌐 [[http://lacueilleuse.com|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.4427813%2C-1.5604713|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5408058,
+          47.2239586
+        ]
+      },
+      "properties": {
+        "name": "FLAM'S NANTES",
+        "adresse": "",
+        "commune": "NANTES",
+        "code_postal": "44000",
+        "id_tourinsoft": "RESPDL044V50K8E3",
+        "latitude": 47.2239586,
+        "longitude": -1.5408058,
+        "telephone": "02 40 48 57 77",
+        "site_internet": "https://www.flams.fr/restaurant_nantes.html",
+        "lien_site": "🌐 [[https://www.flams.fr/restaurant_nantes.html|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2239586%2C-1.5408058|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6319804,
+          47.45547
+        ]
+      },
+      "properties": {
+        "name": "GUINGUETTE DES JANETTES",
+        "adresse": "Étang Bout de Bois (côté plage)",
+        "commune": "SAFFRE",
+        "code_postal": "44390",
+        "id_tourinsoft": "RESPDL044V50MAKM",
+        "latitude": 47.45547,
+        "longitude": -1.6319804,
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.45547%2C-1.6319804|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.577716,
+          46.965624
+        ]
+      },
+      "properties": {
+        "name": "LA FORGE SAINT JOSEPH",
+        "adresse": "11 Place Saint Etienne",
+        "commune": "CORCOUE-SUR-LOGNE",
+        "code_postal": "44650",
+        "id_tourinsoft": "RESPDL044V50QM0C",
+        "latitude": 46.965624,
+        "longitude": -1.577716,
+        "telephone": "02 40 73 61 69",
+        "site_internet": "https://la-forge-saint-joseph-restaurant.business.site",
+        "lien_site": "🌐 [[https://la-forge-saint-joseph-restaurant.business.site|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=46.965624%2C-1.577716|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.818666,
+          46.991969
+        ]
+      },
+      "properties": {
+        "name": "A LA FRITE DES CH'TIS",
+        "adresse": "2 Place des Halles",
+        "commune": "MACHECOUL-SAINT-MEME",
+        "code_postal": "44270",
+        "id_tourinsoft": "RESPDL044V50QM3A",
+        "latitude": 46.991969,
+        "longitude": -1.818666,
+        "telephone": "09 84 39 81 95",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=46.991969%2C-1.818666|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5216099,
+          47.1909928
+        ]
+      },
+      "properties": {
+        "name": "CAFÉ – RESTAURANT LE PETIT JARDIN",
+        "adresse": "97B route de Clisson,",
+        "commune": "SAINT-SEBASTIEN-SUR-LOIRE",
+        "code_postal": "44230",
+        "id_tourinsoft": "RESPDL044V50T5M5",
+        "latitude": 47.1909928,
+        "longitude": -1.5216099,
+        "telephone": "02 40 56 40 21",
+        "site_internet": "https://www.resto-lepetitjardin.fr",
+        "lien_site": "🌐 [[https://www.resto-lepetitjardin.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.1909928%2C-1.5216099|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.79334,
+          47.02142
+        ]
+      },
+      "properties": {
+        "name": "LE CAFÉ DU PORT",
+        "adresse": "2 Place du Port",
+        "commune": "MACHECOUL-SAINT-MEME",
+        "code_postal": "44270",
+        "id_tourinsoft": "RESPDL044V50ZJGX",
+        "latitude": 47.02142,
+        "longitude": -1.79334,
+        "telephone": "09 50 06 08 57",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.02142%2C-1.79334|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1833011,
+          47.3623606
+        ]
+      },
+      "properties": {
+        "name": "La Charbo",
+        "adresse": "La Charbonnière",
+        "commune": "ANCENIS-SAINT-GEREON",
+        "code_postal": "44150",
+        "id_tourinsoft": "RESPDL044V511IJ5",
+        "latitude": 47.3623606,
+        "longitude": -1.1833011,
+        "telephone": "02 51 14 16 22",
+        "site_internet": "https://www.la-charbo.fr/",
+        "lien_site": "🌐 [[https://www.la-charbo.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3623606%2C-1.1833011|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4984563,
+          47.4398263
+        ]
+      },
+      "properties": {
+        "name": "CAFÉ PAMPLEMOUSSE",
+        "adresse": "12 Rue de la Paix",
+        "commune": "NORT-SUR-ERDRE",
+        "code_postal": "44390",
+        "id_tourinsoft": "RESPDL044V513UQ7",
+        "latitude": 47.4398263,
+        "longitude": -1.4984563,
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.4398263%2C-1.4984563|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3744,
+          47.28023
+        ]
+      },
+      "properties": {
+        "name": "Bar à bières de la Brasserie de la Divatte",
+        "adresse": "34 bis Le Norestier",
+        "commune": "DIVATTE-SUR-LOIRE",
+        "code_postal": "44450",
+        "id_tourinsoft": "RESPDL044V5140JD",
+        "latitude": 47.28023,
+        "longitude": -1.3744,
+        "telephone": "02 40 33 38 94",
+        "site_internet": "https://www.bieretrompesouris.com/",
+        "lien_site": "🌐 [[https://www.bieretrompesouris.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.28023%2C-1.3744|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.56347,
+          47.21366
+        ]
+      },
+      "properties": {
+        "name": "Pizzéria Agapè",
+        "adresse": "6 Rue Racine",
+        "commune": "NANTES",
+        "code_postal": "44000",
+        "id_tourinsoft": "RESPDL044V5146SB",
+        "latitude": 47.21366,
+        "longitude": -1.56347,
+        "telephone": "02 40 73 82 98",
+        "site_internet": "https://www.agape-nantes.com/",
+        "lien_site": "🌐 [[https://www.agape-nantes.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.21366%2C-1.56347|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3873813,
+          47.2809493
+        ]
+      },
+      "properties": {
+        "name": "L'Entre-2-Ponts",
+        "adresse": "160 levée de la Divatte",
+        "commune": "DIVATTE-SUR-LOIRE",
+        "code_postal": "44450",
+        "id_tourinsoft": "RESPDL044V516XX4",
+        "latitude": 47.2809493,
+        "longitude": -1.3873813,
+        "telephone": "0240578149",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2809493%2C-1.3873813|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.20312,
+          47.27271
+        ]
+      },
+      "properties": {
+        "name": "GAMIN",
+        "adresse": "1 Avenue René Coty",
+        "commune": "SAINT-NAZAIRE",
+        "code_postal": "44600",
+        "id_tourinsoft": "RESPDL044V518BZE",
+        "latitude": 47.27271,
+        "longitude": -2.20312,
+        "telephone": "https://www.gamin.fr/",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.27271%2C-2.20312|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.348572,
+          47.3253125
+        ]
+      },
+      "properties": {
+        "name": "Auberge Le Vieux Cellier - Restaurant / Traiteur",
+        "adresse": "",
+        "commune": "LE CELLIER",
+        "code_postal": "44850",
+        "id_tourinsoft": "RESPDL044V51DCC3",
+        "latitude": 47.3253125,
+        "longitude": -1.348572,
+        "telephone": "02 40 25 40 07",
+        "site_internet": "https://www.aubergelevieuxcellier.fr/",
+        "lien_site": "🌐 [[https://www.aubergelevieuxcellier.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3253125%2C-1.348572|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2680227,
+          47.166654
+        ]
+      },
+      "properties": {
+        "name": "Complètement Bar'Jeux",
+        "adresse": "18 boulevard d'Alcester",
+        "commune": "VALLET",
+        "code_postal": "44330",
+        "id_tourinsoft": "RESPDL044V51ES7M",
+        "latitude": 47.166654,
+        "longitude": -1.2680227,
+        "telephone": "02-59-16-06-44",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.166654%2C-1.2680227|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.59725,
+          46.88488
+        ]
+      },
+      "properties": {
+        "name": "CHE LENNON",
+        "adresse": "4 Rue de la Chapelle",
+        "commune": "LEGE",
+        "code_postal": "44650",
+        "id_tourinsoft": "RESPDL044V51FMBK",
+        "latitude": 46.88488,
+        "longitude": -1.59725,
+        "telephone": "02 55 10 30 63",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=46.88488%2C-1.59725|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.10068,
+          47.11542
+        ]
+      },
+      "properties": {
+        "name": "Restaurant La Station",
+        "adresse": "place de la gare",
+        "commune": "PORNIC",
+        "code_postal": "44680",
+        "id_tourinsoft": "RESRESTTLASTATION",
+        "latitude": 47.11542,
+        "longitude": -2.10068,
+        "telephone": "02 59 16 27 46",
+        "site_internet": "https://doux-reveurs.fr/on-the-rail-again",
+        "lien_site": "🌐 [[https://doux-reveurs.fr/on-the-rail-again|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.11542%2C-2.10068|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.03667,
+          47.08081
+        ]
+      },
+      "properties": {
+        "name": "L'Embellie, salon de thé",
+        "adresse": "13 rue Jean Duplessis",
+        "commune": "LA BERNERIE-EN-RETZ",
+        "code_postal": "44760",
+        "id_tourinsoft": "RESRESTTLBEMBELLIE",
+        "latitude": 47.08081,
+        "longitude": -2.03667,
+        "telephone": "02 40 82 48 04",
+        "site_internet": "http://www.embellie.org",
+        "lien_site": "🌐 [[http://www.embellie.org|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.08081%2C-2.03667|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.32605,
+          47.37153
+        ]
+      },
+      "properties": {
+        "name": "Auberge Le Nézil",
+        "adresse": "Le Nézyl",
+        "commune": "SAINT-LYPHARD",
+        "code_postal": "44410",
+        "id_tourinsoft": "RESTAUBNEZIL",
+        "latitude": 47.37153,
+        "longitude": -2.32605,
+        "telephone": "02 40 91 41 41",
+        "site_internet": "https://auberge-le-nezyl-saint-lyphard.eatbu.com/",
+        "lien_site": "🌐 [[https://auberge-le-nezyl-saint-lyphard.eatbu.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.37153%2C-2.32605|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4262,
+          47.32704
+        ]
+      },
+      "properties": {
+        "name": "L'Agapé",
+        "adresse": "11 faubourg Saint-Michel",
+        "commune": "GUERANDE",
+        "code_postal": "44350",
+        "id_tourinsoft": "RESTLAGAPE",
+        "latitude": 47.32704,
+        "longitude": -2.4262,
+        "telephone": "02 40 11 78 78",
+        "site_internet": "http://www.lagapebistrot.com",
+        "lien_site": "🌐 [[http://www.lagapebistrot.com|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.32704%2C-2.4262|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0318,
+          47.2888
+        ]
+      },
+      "properties": {
+        "name": "LES RAFFINÉS",
+        "adresse": "3 Place du Marché",
+        "commune": "PAIMBOEUF",
+        "code_postal": "44560",
+        "id_tourinsoft": "RESTLESRAFFINES",
+        "latitude": 47.2888,
+        "longitude": -2.0318,
+        "telephone": "06 08 54 08 72",
+        "site_internet": "https://lesflaconsnicolasbarbou.fr/blog/",
+        "lien_site": "🌐 [[https://lesflaconsnicolasbarbou.fr/blog/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2888%2C-2.0318|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.42915,
+          47.27716
+        ]
+      },
+      "properties": {
+        "name": "Noisettes et bergamote",
+        "adresse": "5 rue du centre",
+        "commune": "LE POULIGUEN",
+        "code_postal": "44510",
+        "id_tourinsoft": "RESTNOISETTESETBERGAMOTELP",
+        "latitude": 47.27716,
+        "longitude": -2.42915,
+        "telephone": "09 81 88 19 98",
+        "site_internet": "https://noisettesetbergamote.fr/",
+        "lien_site": "🌐 [[https://noisettesetbergamote.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.27716%2C-2.42915|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.35205,
+          47.27062
+        ]
+      },
+      "properties": {
+        "name": "Le Cap de Pornichet",
+        "adresse": "162 bis boulevard des Océanides",
+        "commune": "PORNICHET",
+        "code_postal": "44380",
+        "id_tourinsoft": "RESTPLECAPDEPORNICHET",
+        "latitude": 47.27062,
+        "longitude": -2.35205,
+        "telephone": "02 40 61 04 01",
+        "site_internet": "https://www.lecappornichet.fr/",
+        "lien_site": "🌐 [[https://www.lecappornichet.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.27062%2C-2.35205|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.17211,
+          47.22729
+        ]
+      },
+      "properties": {
+        "name": "LES PIAFS",
+        "adresse": "82 Avenue du Président Roosevelt",
+        "commune": "SAINT-BREVIN-LES-PINS",
+        "code_postal": "44250",
+        "id_tourinsoft": "RESTRESPDL044V5004OE",
+        "latitude": 47.22729,
+        "longitude": -2.17211,
+        "telephone": "02 40 27 23 38",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.22729%2C-2.17211|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16818,
+          47.24713
+        ]
+      },
+      "properties": {
+        "name": "BAR À CRÊPES",
+        "adresse": "14 rue de l'Eglise",
+        "commune": "SAINT-BREVIN-LES-PINS",
+        "code_postal": "44250",
+        "id_tourinsoft": "RESTRESPDL044V5004PO",
+        "latitude": 47.24713,
+        "longitude": -2.16818,
+        "telephone": "02 40 39 07 46",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.24713%2C-2.16818|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16558,
+          47.24647
+        ]
+      },
+      "properties": {
+        "name": "L'ENTR'ACTE",
+        "adresse": "10 Rue Jean Foucher",
+        "commune": "SAINT-BREVIN-LES-PINS",
+        "code_postal": "44250",
+        "id_tourinsoft": "RESTRESPDL044V503VVH",
+        "latitude": 47.24647,
+        "longitude": -2.16558,
+        "telephone": "02 40 27 43 31",
+        "site_internet": "http://www.laperockcafe.fr",
+        "lien_site": "🌐 [[http://www.laperockcafe.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.24647%2C-2.16558|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.02904,
+          47.28915
+        ]
+      },
+      "properties": {
+        "name": "TOUT EN RONDEUR",
+        "adresse": "39 Rue du Général de Gaulle",
+        "commune": "PAIMBOEUF",
+        "code_postal": "44560",
+        "id_tourinsoft": "RESTRESPDL044V50BM1H",
+        "latitude": 47.28915,
+        "longitude": -2.02904,
+        "telephone": "09 67 19 91 31",
+        "site_internet": "https://www.facebook.com/Terpaimboeuf/",
+        "lien_site": "🌐 [[https://www.facebook.com/Terpaimboeuf/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.28915%2C-2.02904|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.04534,
+          47.20764
+        ]
+      },
+      "properties": {
+        "name": "AU PETIT MARCHÉ",
+        "adresse": "39 Place du Marché",
+        "commune": "SAINT-PERE-EN-RETZ",
+        "code_postal": "44320",
+        "id_tourinsoft": "RESTRESTSTPERE44MARCHE",
+        "latitude": 47.20764,
+        "longitude": -2.04534,
+        "telephone": "02 40 82 28 44",
+        "site_internet": "https://www.facebook.com/Au-Petit-March%C3%A9-1426126541039723/",
+        "lien_site": "🌐 [[https://www.facebook.com/Au-Petit-March%C3%A9-1426126541039723/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.20764%2C-2.04534|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.09161,
+          47.10529
+        ]
+      },
+      "properties": {
+        "name": "LE 21 - Bar à vins et à manger",
+        "adresse": "Plage de la Birochère",
+        "commune": "PORNIC",
+        "code_postal": "44210",
+        "id_tourinsoft": "RESTTPOLE21",
+        "latitude": 47.10529,
+        "longitude": -2.09161,
+        "telephone": "02 51 18 15 95",
+        "site_internet": "http://www.le21-pornic.fr",
+        "lien_site": "🌐 [[http://www.le21-pornic.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.10529%2C-2.09161|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.498159,
           47.260097
         ]
