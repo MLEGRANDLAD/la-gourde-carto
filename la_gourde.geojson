@@ -6,6 +6,1189 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.4977807,
+          47.4404592
+        ]
+      },
+      "properties": {
+        "name": "DOSE EPICERIE SANS EMBALLAGE",
+        "adresse": "9 Rue des Mariniers",
+        "commune": "NORT-SUR-ERDRE",
+        "code_postal": "44390",
+        "id_tourinsoft": "A0013PDL044V50MOPW",
+        "latitude": 47.4404592,
+        "longitude": -1.4977807,
+        "telephone": "02 40 14 03 53",
+        "site_internet": "https://villesetshopping.fr/nort-sur-erdre/annuaire/epicerie-dose/",
+        "lien_site": "🌐 [[https://villesetshopping.fr/nort-sur-erdre/annuaire/epicerie-dose/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.4404592%2C-1.4977807|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.857386,
+          47.474138
+        ]
+      },
+      "properties": {
+        "name": "ÉPICERIE \"AU P'TIT MARCHÉ\"",
+        "adresse": "2 Rue de l'Eglise Saint-Omer",
+        "commune": "BLAIN",
+        "code_postal": "44130",
+        "id_tourinsoft": "A0013PDL044V50RE6S",
+        "latitude": 47.474138,
+        "longitude": -1.857386,
+        "telephone": "02 40 87 13 97",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.474138%2C-1.857386|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1776592,
+          47.3654253
+        ]
+      },
+      "properties": {
+        "name": "L'Atipik épicerie",
+        "adresse": "",
+        "commune": "ANCENIS-SAINT-GEREON",
+        "code_postal": "44150",
+        "id_tourinsoft": "A0013PDL044V5136N8",
+        "latitude": 47.3654253,
+        "longitude": -1.1776592,
+        "telephone": "02 40 98 86 95",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3654253%2C-1.1776592|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4055211,
+          47.372818
+        ]
+      },
+      "properties": {
+        "name": "La Scael",
+        "adresse": "",
+        "commune": "LIGNE",
+        "code_postal": "44850",
+        "id_tourinsoft": "A0013PDL044V51D8LB",
+        "latitude": 47.372818,
+        "longitude": -1.4055211,
+        "telephone": "02 40 77 47 71",
+        "site_internet": "https://scael.fr/",
+        "lien_site": "🌐 [[https://scael.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.372818%2C-1.4055211|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1779381,
+          47.3705358
+        ]
+      },
+      "properties": {
+        "name": "Bar à jeux - Le Chifoumi",
+        "adresse": "Centre commercial Les Arcades",
+        "commune": "ANCENIS-SAINT-GEREON",
+        "code_postal": "44150",
+        "id_tourinsoft": "A0013PDL044V51DD33",
+        "latitude": 47.3705358,
+        "longitude": -1.1779381,
+        "telephone": "06 67 58 79 41",
+        "site_internet": "https://www.chifoumi-bar.fr/",
+        "lien_site": "🌐 [[https://www.chifoumi-bar.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3705358%2C-1.1779381|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.188497,
+          47.374645
+        ]
+      },
+      "properties": {
+        "name": "Biscuiterie de Kerlann",
+        "adresse": "71 Rue des Vieilles Haies",
+        "commune": "ANCENIS-SAINT-GEREON",
+        "code_postal": "44150",
+        "id_tourinsoft": "A0013PDL044V51EGKD",
+        "latitude": 47.374645,
+        "longitude": -1.188497,
+        "telephone": "02 51 14 49 52",
+        "site_internet": "http://www.biscuiterie-de-kerlann.com/",
+        "lien_site": "🌐 [[http://www.biscuiterie-de-kerlann.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.374645%2C-1.188497|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2866135,
+          47.3465739
+        ]
+      },
+      "properties": {
+        "name": "Boulangerie Papillon",
+        "adresse": "25 Place Saint-Martin",
+        "commune": "OUDON",
+        "code_postal": "44521",
+        "id_tourinsoft": "A0013PDL044V51G89N",
+        "latitude": 47.3465739,
+        "longitude": -1.2866135,
+        "telephone": "02 40 09 65 83",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3465739%2C-1.2866135|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0241371,
+          47.3878126
+        ]
+      },
+      "properties": {
+        "name": "Ô B'ART - Bières & Tatouages",
+        "adresse": "431 F Rue du Général de Gaulle",
+        "commune": "LOIREAUXENCE",
+        "code_postal": "44370",
+        "id_tourinsoft": "A0013PDL044V51GHF1",
+        "latitude": 47.3878126,
+        "longitude": -1.0241371,
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3878126%2C-1.0241371|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.304697,
+          47.20409
+        ]
+      },
+      "properties": {
+        "name": "La Route des Comptoirs",
+        "adresse": "1 Zone Artisanale de La Bossardière",
+        "commune": "LE LANDREAU",
+        "code_postal": "44430",
+        "id_tourinsoft": "A0013PDL044V51MUKC",
+        "latitude": 47.20409,
+        "longitude": -1.304697,
+        "telephone": "02 40 54 20 00",
+        "site_internet": "https://www.laroutedescomptoirs.com/",
+        "lien_site": "🌐 [[https://www.laroutedescomptoirs.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.20409%2C-1.304697|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.92732,
+          47.06093
+        ]
+      },
+      "properties": {
+        "name": "Ferme du Marais Champs",
+        "adresse": "Nombreuil",
+        "commune": "VILLENEUVE-EN-RETZ",
+        "code_postal": "44580",
+        "id_tourinsoft": "DEGDEGDDVERMARAISCHAMPS",
+        "latitude": 47.06093,
+        "longitude": -1.92732,
+        "telephone": "02 40 21 97 63",
+        "site_internet": "http://blogfermedumaraischamps.blogspot.com",
+        "lien_site": "🌐 [[http://blogfermedumaraischamps.blogspot.com|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.06093%2C-1.92732|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.02186,
+          47.26275
+        ]
+      },
+      "properties": {
+        "name": "FERME PRÉFÉRETZ",
+        "adresse": "5 Le Bois Rouaud",
+        "commune": "SAINT-PERE-EN-RETZ",
+        "code_postal": "44320",
+        "id_tourinsoft": "DEGDEGDFERMEPREFERETZ",
+        "latitude": 47.26275,
+        "longitude": -2.02186,
+        "telephone": "06 08 28 77 61",
+        "site_internet": "https://www.facebook.com/Preferetz",
+        "lien_site": "🌐 [[https://www.facebook.com/Preferetz|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.26275%2C-2.02186|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.15241,
+          47.24124
+        ]
+      },
+      "properties": {
+        "name": "MICROBRASSERIE BREWEN",
+        "adresse": "9 Chemin des Pinluettes",
+        "commune": "SAINT-BREVIN-LES-PINS",
+        "code_postal": "44250",
+        "id_tourinsoft": "DEGDEGDVISITEBREWEN",
+        "latitude": 47.24124,
+        "longitude": -2.15241,
+        "telephone": "07 50 50 63 09",
+        "site_internet": "https://brewen.fr/",
+        "lien_site": "🌐 [[https://brewen.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.24124%2C-2.15241|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.348572,
+          47.3253125
+        ]
+      },
+      "properties": {
+        "name": "Domaine des Génaudières",
+        "adresse": "101",
+        "commune": "LE CELLIER",
+        "code_postal": "44850",
+        "id_tourinsoft": "DEGPDL044000018",
+        "latitude": 47.3253125,
+        "longitude": -1.348572,
+        "telephone": "02 40 25 40 27",
+        "site_internet": "http://www.domaine-genaudieres.fr",
+        "lien_site": "🌐 [[http://www.domaine-genaudieres.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3253125%2C-1.348572|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3644538,
+          47.1187945
+        ]
+      },
+      "properties": {
+        "name": "Domaine Henri Poiron & Fils",
+        "adresse": "Les Quatre Routes",
+        "commune": "MAISDON-SUR-SEVRE",
+        "code_postal": "44690",
+        "id_tourinsoft": "DEGPDL044000026",
+        "latitude": 47.1187945,
+        "longitude": -1.3644538,
+        "telephone": "02 40 54 60 58",
+        "site_internet": "http://www.poironhenri.com/",
+        "lien_site": "🌐 [[http://www.poironhenri.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.1187945%2C-1.3644538|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.80432,
+          46.97949
+        ]
+      },
+      "properties": {
+        "name": "LA FROMAGERIE BEILLEVAIRE",
+        "adresse": "11 Rue Denis Papin",
+        "commune": "MACHECOUL-SAINT-MEME",
+        "code_postal": "44270",
+        "id_tourinsoft": "DEGPDL044000132",
+        "latitude": 46.97949,
+        "longitude": -1.80432,
+        "telephone": "02 72 74 08 30",
+        "site_internet": "http://fromagerie-beillevaire.com",
+        "lien_site": "🌐 [[http://fromagerie-beillevaire.com|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=46.97949%2C-1.80432|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.17768,
+          47.36523
+        ]
+      },
+      "properties": {
+        "name": "Domaine Landron Chartier",
+        "adresse": "51 Place Jeanne d'Arc",
+        "commune": "ANCENIS-SAINT-GEREON",
+        "code_postal": "44150",
+        "id_tourinsoft": "DEGPDL0440001859",
+        "latitude": 47.36523,
+        "longitude": -1.17768,
+        "telephone": "09 83 58 32 71",
+        "site_internet": "http://www.landronchartier.fr",
+        "lien_site": "🌐 [[http://www.landronchartier.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.36523%2C-1.17768|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3811767,
+          47.1414519
+        ]
+      },
+      "properties": {
+        "name": "Domaine des 3 Versants",
+        "adresse": "205 La Févrie",
+        "commune": "MAISDON-SUR-SEVRE",
+        "code_postal": "44690",
+        "id_tourinsoft": "DEGPDL044V50EK6L",
+        "latitude": 47.1414519,
+        "longitude": -1.3811767,
+        "telephone": "02 40 54 89 27",
+        "site_internet": "http://www.domaine3versants.fr",
+        "lien_site": "🌐 [[http://www.domaine3versants.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.1414519%2C-1.3811767|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7105664,
+          47.0594393
+        ]
+      },
+      "properties": {
+        "name": "LA FERME DE GRAND LIEU",
+        "adresse": "",
+        "commune": "SAINT-LUMINE-DE-COUTAIS",
+        "code_postal": "44310",
+        "id_tourinsoft": "DEGPDL044V50L97I",
+        "latitude": 47.0594393,
+        "longitude": -1.7105664,
+        "telephone": "06 60 81 16 51",
+        "site_internet": "http://lafermedegrandlieu.fr",
+        "lien_site": "🌐 [[http://lafermedegrandlieu.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.0594393%2C-1.7105664|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3823505,
+          47.151595
+        ]
+      },
+      "properties": {
+        "name": "Domaines Landron",
+        "adresse": "2 Chemin de la Louvetrie",
+        "commune": "LA HAIE-FOUASSIERE",
+        "code_postal": "44690",
+        "id_tourinsoft": "DEGPDL044V50N0RH",
+        "latitude": 47.151595,
+        "longitude": -1.3823505,
+        "telephone": "02 40 54 83 27",
+        "site_internet": "https://domaines-landron.fr/",
+        "lien_site": "🌐 [[https://domaines-landron.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.151595%2C-1.3823505|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7545156,
+          47.0710062
+        ]
+      },
+      "properties": {
+        "name": "LES JARDINS DE LA COCCINELLE",
+        "adresse": "19 Le Branday",
+        "commune": "SAINT-MARS-DE-COUTAIS",
+        "code_postal": "44680",
+        "id_tourinsoft": "DEGPDL044V50QMKK",
+        "latitude": 47.0710062,
+        "longitude": -1.7545156,
+        "telephone": "06 98 75 36 05",
+        "site_internet": "http://www.lesjardinsdelacoccinelle.fr",
+        "lien_site": "🌐 [[http://www.lesjardinsdelacoccinelle.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.0710062%2C-1.7545156|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.177491,
+          47.365464
+        ]
+      },
+      "properties": {
+        "name": "Cultivons les Cailloux",
+        "adresse": "",
+        "commune": "ANCENIS-SAINT-GEREON",
+        "code_postal": "44150",
+        "id_tourinsoft": "DEGPDL044V50S5WK",
+        "latitude": 47.365464,
+        "longitude": -1.177491,
+        "telephone": "02 72 52 60 90",
+        "site_internet": "https://cultivonslescailloux.org/",
+        "lien_site": "🌐 [[https://cultivonslescailloux.org/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.365464%2C-1.177491|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5122116,
+          47.4794442
+        ]
+      },
+      "properties": {
+        "name": "FERME DU BIAÙ CHEMIN DES LANDES",
+        "adresse": "5 Les Vigneaux",
+        "commune": "NORT-SUR-ERDRE",
+        "code_postal": "44390",
+        "id_tourinsoft": "DEGPDL044V50SBQ4",
+        "latitude": 47.4794442,
+        "longitude": -1.5122116,
+        "telephone": "06 16 14 43 77",
+        "site_internet": "https://lafermedubiauchemindeslandes-30.webself.net/",
+        "lien_site": "🌐 [[https://lafermedubiauchemindeslandes-30.webself.net/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.4794442%2C-1.5122116|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.76621,
+          47.03608
+        ]
+      },
+      "properties": {
+        "name": "LA FERME DE L'ANFRENIÈRE",
+        "adresse": "Lieu-dit L'Anfrenière",
+        "commune": "SAINT-MARS-DE-COUTAIS",
+        "code_postal": "44680",
+        "id_tourinsoft": "DEGPDL044V50X6BB",
+        "latitude": 47.03608,
+        "longitude": -1.76621,
+        "telephone": "06 11 70 65 43",
+        "site_internet": "https://www.fermedelanfreniere.fr/",
+        "lien_site": "🌐 [[https://www.fermedelanfreniere.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.03608%2C-1.76621|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6123212,
+          47.093764
+        ]
+      },
+      "properties": {
+        "name": "LES TRESORS DU LAC",
+        "adresse": "10 Grand Rue",
+        "commune": "LA CHEVROLIERE",
+        "code_postal": "44118",
+        "id_tourinsoft": "DEGPDL044V51CEW2",
+        "latitude": 47.093764,
+        "longitude": -1.6123212,
+        "telephone": "06 07 53 28 69",
+        "site_internet": "http://lestresorsdulac.fr",
+        "lien_site": "🌐 [[http://lestresorsdulac.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.093764%2C-1.6123212|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1795,
+          47.36542
+        ]
+      },
+      "properties": {
+        "name": "Atelier de poterie Terre Citron",
+        "adresse": "48 rue de Charost",
+        "commune": "ANCENIS-SAINT-GEREON",
+        "code_postal": "44150",
+        "id_tourinsoft": "DEGPDL044V51D1PM",
+        "latitude": 47.36542,
+        "longitude": -1.1795,
+        "telephone": "07 68 23 26 89",
+        "site_internet": "https://terrecitron.fr/",
+        "lien_site": "🌐 [[https://terrecitron.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.36542%2C-1.1795|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5359191,
+          47.4196661
+        ]
+      },
+      "properties": {
+        "name": "GÎTE ETAPE ÉCLUSE DE LA TINDIÈRE",
+        "adresse": "5 Sobidain",
+        "commune": "NORT-SUR-ERDRE",
+        "code_postal": "44390",
+        "id_tourinsoft": "HCOLLPDL044V50CUWO",
+        "latitude": 47.4196661,
+        "longitude": -1.5359191,
+        "telephone": "06 70 04 45 09",
+        "site_internet": "https://www.etapecanalgiteeclusedelatindiere.com/",
+        "lien_site": "🌐 [[https://www.etapecanalgiteeclusedelatindiere.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.4196661%2C-1.5359191|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.71093,
+          47.05972
+        ]
+      },
+      "properties": {
+        "name": "GITE DE GRAND LIEU",
+        "adresse": "1 Le Bas Fief",
+        "commune": "SAINT-LUMINE-DE-COUTAIS",
+        "code_postal": "44310",
+        "id_tourinsoft": "HCOLLPDL044V50HGXR",
+        "latitude": 47.05972,
+        "longitude": -1.71093,
+        "telephone": "07 87 32 23 66",
+        "site_internet": "https://www.gite-de-grand-lieu.com",
+        "lien_site": "🌐 [[https://www.gite-de-grand-lieu.com|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.05972%2C-1.71093|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4213,
+          47.33146
+        ]
+      },
+      "properties": {
+        "name": "Le Moulin de Beaulieu",
+        "adresse": "30 rue du Meny",
+        "commune": "GUERANDE",
+        "code_postal": "44350",
+        "id_tourinsoft": "HLOMLEMOULINDEBEAULIEU",
+        "latitude": 47.33146,
+        "longitude": -2.4213,
+        "telephone": "06 17 45 01 21",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.33146%2C-2.4213|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.34648,
+          47.26777
+        ]
+      },
+      "properties": {
+        "name": "Chez Thelma et Louis",
+        "adresse": "30 avenue Collet",
+        "commune": "PORNICHET",
+        "code_postal": "44380",
+        "id_tourinsoft": "HLOMPCHEZTHELMAETLOUIS",
+        "latitude": 47.26777,
+        "longitude": -2.34648,
+        "telephone": "06 42 82 78 67",
+        "site_internet": "https://www.chezthelmaetlouis.com/",
+        "lien_site": "🌐 [[https://www.chezthelmaetlouis.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.26777%2C-2.34648|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7459045,
+          47.2126312
+        ]
+      },
+      "properties": {
+        "name": "La tremiere - Chambre d'hôte à deux pas de nantes",
+        "adresse": "5, rue des sternes",
+        "commune": "COUERON",
+        "code_postal": "44220",
+        "id_tourinsoft": "HLOPDL0444CH0090",
+        "latitude": 47.2126312,
+        "longitude": -1.7459045,
+        "telephone": "0670076097",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2126312%2C-1.7459045|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2011817,
+          47.4733518
+        ]
+      },
+      "properties": {
+        "name": "Gîte La Thébaïde RDJ",
+        "adresse": "La métairie neuve",
+        "commune": "MISSILLAC",
+        "code_postal": "44780",
+        "id_tourinsoft": "HLOPDL044NO00048",
+        "latitude": 47.4733518,
+        "longitude": -2.2011817,
+        "telephone": "0678171312",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.4733518%2C-2.2011817|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5341044,
+          47.4014651
+        ]
+      },
+      "properties": {
+        "name": "MEUBLÉ LE NID DOUILLET",
+        "adresse": "261, La Bunière",
+        "commune": "CASSON",
+        "code_postal": "44390",
+        "id_tourinsoft": "HLOPDL044V5001BP",
+        "latitude": 47.4014651,
+        "longitude": -1.5341044,
+        "telephone": "02 40 77 63 64",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.4014651%2C-1.5341044|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5358951,
+          47.4198041
+        ]
+      },
+      "properties": {
+        "name": "CHAMBRES ÉCLUSE DE LA TINDIÈRE",
+        "adresse": "5 Sobidain",
+        "commune": "NORT-SUR-ERDRE",
+        "code_postal": "44390",
+        "id_tourinsoft": "HLOPDL044V50EKOH",
+        "latitude": 47.4198041,
+        "longitude": -1.5358951,
+        "telephone": "06 70 04 45 09",
+        "site_internet": "https://www.eclusedelatindiere.com/",
+        "lien_site": "🌐 [[https://www.eclusedelatindiere.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.4198041%2C-1.5358951|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.527016,
+          47.430046
+        ]
+      },
+      "properties": {
+        "name": "Le Relais de Vérone",
+        "adresse": "231 bis Le Plessis-Pas-Brunet",
+        "commune": "NORT-SUR-ERDRE",
+        "code_postal": "44390",
+        "id_tourinsoft": "HLOPDL044V50IKAT",
+        "latitude": 47.430046,
+        "longitude": -1.527016,
+        "telephone": "+33623900733",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.430046%2C-1.527016|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1576006,
+          47.5751364
+        ]
+      },
+      "properties": {
+        "name": "Maison d'hôtes Terre des Landes",
+        "adresse": "1 Route des Abbayes",
+        "commune": "LE PIN",
+        "code_postal": "44540",
+        "id_tourinsoft": "HLOPDL044V50N1E4",
+        "latitude": 47.5751364,
+        "longitude": -1.1576006,
+        "telephone": "06 07 48 39 85",
+        "site_internet": "http://www.terredeslandes.fr",
+        "lien_site": "🌐 [[http://www.terredeslandes.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.5751364%2C-1.1576006|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.755536,
+          47.202694
+        ]
+      },
+      "properties": {
+        "name": "La Houache",
+        "adresse": "4 Place du Commandant l'Herminier",
+        "commune": "LE PELLERIN",
+        "code_postal": "44640",
+        "id_tourinsoft": "HLOPDL044V512SX8",
+        "latitude": 47.202694,
+        "longitude": -1.755536,
+        "telephone": "+33632129302",
+        "site_internet": "https://lahouachechambresdhotes.fr/",
+        "lien_site": "🌐 [[https://lahouachechambresdhotes.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.202694%2C-1.755536|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5185846,
+          47.3383741
+        ]
+      },
+      "properties": {
+        "name": "CHAMBRE LA SITTELLE",
+        "adresse": "99 Ruelle Tassin",
+        "commune": "SUCE-SUR-ERDRE",
+        "code_postal": "44240",
+        "id_tourinsoft": "HLOPDL044V518OPJ",
+        "latitude": 47.3383741,
+        "longitude": -1.5185846,
+        "telephone": "+33 6 62 93 88 64",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3383741%2C-1.5185846|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.665282,
+          47.186974
+        ]
+      },
+      "properties": {
+        "name": "Le Nid du Massereau",
+        "adresse": "1 Rue des Massereaux",
+        "commune": "BOUGUENAIS",
+        "code_postal": "44340",
+        "id_tourinsoft": "HLOPDL044V51AMTJ",
+        "latitude": 47.186974,
+        "longitude": -1.665282,
+        "telephone": "+33752031184",
+        "site_internet": "https://www.leniddumassereau.fr/",
+        "lien_site": "🌐 [[https://www.leniddumassereau.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.186974%2C-1.665282|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.527135,
+          47.424698
+        ]
+      },
+      "properties": {
+        "name": "Gîte Le Plessis Pas Brunet",
+        "adresse": "609 Le Plessis-Pas-Brunet",
+        "commune": "NORT-SUR-ERDRE",
+        "code_postal": "44390",
+        "id_tourinsoft": "HLOPDL044V51IIQO",
+        "latitude": 47.424698,
+        "longitude": -1.527135,
+        "telephone": "+33786722328",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.424698%2C-1.527135|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.518607,
+          47.338201
+        ]
+      },
+      "properties": {
+        "name": "GITE D'ETAPE LA SITTELLE",
+        "adresse": "83 ruelle Tassin",
+        "commune": "SUCE-SUR-ERDRE",
+        "code_postal": "44240",
+        "id_tourinsoft": "HLOPDL044V51J4PI",
+        "latitude": 47.338201,
+        "longitude": -1.518607,
+        "telephone": "06 62 93 88 64",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.338201%2C-1.518607|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9724707,
+          47.3144792
+        ]
+      },
+      "properties": {
+        "name": "Gîte de la Noé",
+        "adresse": "59 Chem. de la Noé",
+        "commune": "LAVAU-SUR-LOIRE",
+        "code_postal": "44260",
+        "id_tourinsoft": "HLOPDL044V51LJJM",
+        "latitude": 47.3144792,
+        "longitude": -1.9724707,
+        "telephone": "06 84 43 14 35",
+        "site_internet": "https://ecrin-de-vie.fr/",
+        "lien_site": "🌐 [[https://ecrin-de-vie.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3144792%2C-1.9724707|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.34512,
+          47.26548
+        ]
+      },
+      "properties": {
+        "name": "Ibis Thalasso***",
+        "adresse": "66 boulevard des Océanides",
+        "commune": "PORNICHET",
+        "code_postal": "44380",
+        "id_tourinsoft": "HOTHOTIBISPORNICHET",
+        "latitude": 47.26548,
+        "longitude": -2.34512,
+        "telephone": "02 51 73 13 13",
+        "site_internet": "https://all.accor.com/hotel/1171/index.fr.shtml",
+        "lien_site": "🌐 [[https://all.accor.com/hotel/1171/index.fr.shtml|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.26548%2C-2.34512|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.42044,
+          47.27741
+        ]
+      },
+      "properties": {
+        "name": "Hôtel - La Villa Caroline",
+        "adresse": "46 avenue des Lilas",
+        "commune": "LA BAULE-ESCOUBLAC",
+        "code_postal": "44500",
+        "id_tourinsoft": "HOTHOTVILLACAROLINE",
+        "latitude": 47.27741,
+        "longitude": -2.42044,
+        "telephone": "02 40 11 54 54",
+        "site_internet": "https://www.vacancesbleues.fr/fr/la-baule/hotel-villa-caroline",
+        "lien_site": "🌐 [[https://www.vacancesbleues.fr/fr/la-baule/hotel-villa-caroline|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.27741%2C-2.42044|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1770859,
+          47.3709013
+        ]
+      },
+      "properties": {
+        "name": "Hôtel Ibis Styles Ancenis",
+        "adresse": "Boulevard du Docteur Moutel",
+        "commune": "ANCENIS-SAINT-GEREON",
+        "code_postal": "44150",
+        "id_tourinsoft": "HOTPDL0440000002",
+        "latitude": 47.3709013,
+        "longitude": -1.1770859,
+        "telephone": "02 40 83 30 30",
+        "site_internet": "https://all.accor.com/hotel/B5Z9/index.fr.shtml?dateIn=2020-06-04&nights=1&compositions=1&stayplus=false#origin=ibis",
+        "lien_site": "🌐 [[https://all.accor.com/hotel/B5Z9/index.fr.shtml?dateIn=2020-06-04&nights=1&compositions=1&stayplus=false#origin=ibis|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3709013%2C-1.1770859|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.27973,
+          47.238141
+        ]
+      },
+      "properties": {
+        "name": "BEST WESTERN HOTEL DE LA PLAGE",
+        "adresse": "37 rue du Commandant Charcot",
+        "commune": "SAINT-NAZAIRE",
+        "code_postal": "44600",
+        "id_tourinsoft": "HOTPDL0440000215",
+        "latitude": 47.238141,
+        "longitude": -2.27973,
+        "telephone": "02 40 91 99 01",
+        "site_internet": "https://www.hotel-delaplage.fr",
+        "lien_site": "🌐 [[https://www.hotel-delaplage.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.238141%2C-2.27973|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2107813,
+          47.2777026
+        ]
+      },
+      "properties": {
+        "name": "THE ORIGINALS CITY HOTEL DE L'EUROPE",
+        "adresse": "2, place des Martyrs de la Résistance",
+        "commune": "SAINT-NAZAIRE",
+        "code_postal": "44600",
+        "id_tourinsoft": "HOTPDL0440000225",
+        "latitude": 47.2777026,
+        "longitude": -2.2107813,
+        "telephone": "02 40 22 49 87",
+        "site_internet": "https://www.theoriginalshotels.com/hotels/hotel-de-l-europe",
+        "lien_site": "🌐 [[https://www.theoriginalshotels.com/hotels/hotel-de-l-europe|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2777026%2C-2.2107813|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.75346,
+          47.200228
+        ]
+      },
+      "properties": {
+        "name": "L'ESPLANADE Hôtel · Restaurant · Bar à vin",
+        "adresse": "",
+        "commune": "LE PELLERIN",
+        "code_postal": "44640",
+        "id_tourinsoft": "HOTPDL044105599",
+        "latitude": 47.200228,
+        "longitude": -1.75346,
+        "telephone": "02 40 04 68 14",
+        "site_internet": "http://www.hotel-lesplanade.fr",
+        "lien_site": "🌐 [[http://www.hotel-lesplanade.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.200228%2C-1.75346|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5607023,
+          47.218949
+        ]
+      },
+      "properties": {
+        "name": "HÔTEL IBIS NANTES CENTRE TOUR BRETAGNE",
+        "adresse": "19, rue Jean Jaurès",
+        "commune": "NANTES",
+        "code_postal": "44000",
+        "id_tourinsoft": "HOTPDL04440752",
+        "latitude": 47.218949,
+        "longitude": -1.5607023,
+        "telephone": "02 40 35 39 00",
+        "site_internet": "https://all.accor.com/hotel/1394/index.fr.shtml",
+        "lien_site": "🌐 [[https://all.accor.com/hotel/1394/index.fr.shtml|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.218949%2C-1.5607023|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5648959,
+          47.2040841
+        ]
+      },
+      "properties": {
+        "name": "EKLO NANTES",
+        "adresse": "63 Bis Boulevard de la Prairie au Duc",
+        "commune": "NANTES",
+        "code_postal": "44200",
+        "id_tourinsoft": "HOTPDL044V51NPJW",
+        "latitude": 47.2040841,
+        "longitude": -1.5648959,
+        "telephone": "02 85 52 32 33",
+        "site_internet": "https://www.eklohotels.com/fr/nantes",
+        "lien_site": "🌐 [[https://www.eklohotels.com/fr/nantes|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2040841%2C-1.5648959|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.44633,
+          47.42331
+        ]
+      },
+      "properties": {
+        "name": "Camping de la Baie",
+        "adresse": "Keravélo - Pen Bé",
+        "commune": "ASSERAC",
+        "code_postal": "44410",
+        "id_tourinsoft": "HPAELABAIE",
+        "latitude": 47.42331,
+        "longitude": -2.44633,
+        "telephone": "02 40 01 71 16",
+        "site_internet": "https://www.camping-delabaie.com/",
+        "lien_site": "🌐 [[https://www.camping-delabaie.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.42331%2C-2.44633|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.652556,
+          47.414794
+        ]
+      },
+      "properties": {
+        "name": "CAMPING LA PINDIERE ***",
+        "adresse": "102 La Denais",
+        "commune": "HERIC",
+        "code_postal": "44810",
+        "id_tourinsoft": "HPAPDL044000036",
+        "latitude": 47.414794,
+        "longitude": -1.652556,
+        "telephone": "02 40 57 65 41",
+        "site_internet": "http://www.camping-la-pindiere.com/",
+        "lien_site": "🌐 [[http://www.camping-la-pindiere.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.414794%2C-1.652556|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1872122,
+          47.3627773
+        ]
+      },
+      "properties": {
+        "name": "Camping de l'île Mouchet",
+        "adresse": "Impasse de l'Île Mouchet",
+        "commune": "ANCENIS-SAINT-GEREON",
+        "code_postal": "44150",
+        "id_tourinsoft": "HPAPDL044V5009CB",
+        "latitude": 47.3627773,
+        "longitude": -1.1872122,
+        "telephone": "02 40 83 08 43",
+        "site_internet": "http://www.camping-estivance.com",
+        "lien_site": "🌐 [[http://www.camping-estivance.com|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3627773%2C-1.1872122|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.19055,
           47.13775
         ]
@@ -503,6 +1686,1290 @@
         "site_internet": "http://www.ocearium-croisic.fr",
         "lien_site": "🌐 [[http://www.ocearium-croisic.fr|Site internet]]",
         "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.29964%2C-2.52376|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5506128,
+          47.2156954
+        ]
+      },
+      "properties": {
+        "name": "LE VOYAGE À NANTES - BUREAU D'ACCUEIL",
+        "adresse": "9 rue des Etats",
+        "commune": "NANTES",
+        "code_postal": "44000",
+        "id_tourinsoft": "ORGPDL044V5003OS",
+        "latitude": 47.2156954,
+        "longitude": -1.5506128,
+        "telephone": "0 892 464 044",
+        "site_internet": "https://www.levoyageanantes.fr/lieux/accueil-du-voyage-a-nantes/",
+        "lien_site": "🌐 [[https://www.levoyageanantes.fr/lieux/accueil-du-voyage-a-nantes/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2156954%2C-1.5506128|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0361164,
+          47.0805527
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME INTERCOMMUNAL DE PORNIC - LA BERNERIE EN RETZ",
+        "adresse": "3 chaussée du Pays de Retz",
+        "commune": "LA BERNERIE-EN-RETZ",
+        "code_postal": "44760",
+        "id_tourinsoft": "ORGPDL044V5003VO",
+        "latitude": 47.0805527,
+        "longitude": -2.0361164,
+        "telephone": "02 40 82 70 99",
+        "site_internet": "https://www.pornic.com",
+        "lien_site": "🌐 [[https://www.pornic.com|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.0805527%2C-2.0361164|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2817909,
+          47.08691
+        ]
+      },
+      "properties": {
+        "name": "Office de Tourisme de la Destination Vignoble Nantais",
+        "adresse": "Place du Minage",
+        "commune": "CLISSON",
+        "code_postal": "44190",
+        "id_tourinsoft": "ORGPDL044V500404",
+        "latitude": 47.08691,
+        "longitude": -1.2817909,
+        "telephone": "02 40 54 02 95",
+        "site_internet": "https://www.destination-vignoble-nantais.com",
+        "lien_site": "🌐 [[https://www.destination-vignoble-nantais.com|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.08691%2C-1.2817909|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4944613,
+          47.4388265
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME ERDRE CANAL FORÊT - NORT-SUR-ERDRE",
+        "adresse": "Quai Saint Georges",
+        "commune": "NORT-SUR-ERDRE",
+        "code_postal": "44390",
+        "id_tourinsoft": "ORGPDL044V500405",
+        "latitude": 47.4388265,
+        "longitude": -1.4944613,
+        "telephone": "02 51 12 60 74",
+        "site_internet": "http://www.erdrecanalforet.fr/",
+        "lien_site": "🌐 [[http://www.erdrecanalforet.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.4388265%2C-1.4944613|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1605627,
+          47.1639856
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME INTERCOMMUNAL DE PORNIC - SAINT MICHEL CHEF CHEF",
+        "adresse": "40 rue Ernest Chevrier",
+        "commune": "SAINT-MICHEL-CHEF-CHEF",
+        "code_postal": "44730",
+        "id_tourinsoft": "ORGPDL044V5004PJ",
+        "latitude": 47.1639856,
+        "longitude": -2.1605627,
+        "telephone": "02 40 27 82 54",
+        "site_internet": "https://www.pornic.com/",
+        "lien_site": "🌐 [[https://www.pornic.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.1639856%2C-2.1605627|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6397149,
+          47.0386426
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME DE GRAND LIEU  - SAINT PHILBERT DE GRAND LIEU",
+        "adresse": "1 PLACE DE L'ABBATIALE",
+        "commune": "SAINT-PHILBERT-DE-GRAND-LIEU",
+        "code_postal": "44310",
+        "id_tourinsoft": "ORGPDL044V5005E3",
+        "latitude": 47.0386426,
+        "longitude": -1.6397149,
+        "telephone": "02 40 78 73 88",
+        "site_internet": "http://grandlieu-tourisme.fr",
+        "lien_site": "🌐 [[http://grandlieu-tourisme.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.0386426%2C-1.6397149|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1686823,
+          47.2472707
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME INTERCOMMUNAL DE SAINT-BREVIN - BUREAU DES PINS",
+        "adresse": "10 Rue de l'Eglise",
+        "commune": "SAINT-BREVIN-LES-PINS",
+        "code_postal": "44250",
+        "id_tourinsoft": "ORGPDL044V5005EC",
+        "latitude": 47.2472707,
+        "longitude": -2.1686823,
+        "telephone": "02 40 27 24 32",
+        "site_internet": "https://www.saint-brevin.com/",
+        "lien_site": "🌐 [[https://www.saint-brevin.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2472707%2C-2.1686823|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0276611,
+          47.2893312
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME INTERCOMMUNAL DE PAIMBOEUF",
+        "adresse": "Quai Sadi Carnot",
+        "commune": "PAIMBOEUF",
+        "code_postal": "44560",
+        "id_tourinsoft": "ORGPDL044V5005ED",
+        "latitude": 47.2893312,
+        "longitude": -2.0276611,
+        "telephone": "02 40 27 53 82",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2893312%2C-2.0276611|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2035293,
+          47.2757607
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME DE SAINT-NAZAIRE RENVERSANTE",
+        "adresse": "12 Boulevard de la légion d'honneur",
+        "commune": "SAINT-NAZAIRE",
+        "code_postal": "44600",
+        "id_tourinsoft": "ORGPDL044V5005R7",
+        "latitude": 47.2757607,
+        "longitude": -2.2035293,
+        "telephone": "02 40 22 40 65",
+        "site_internet": "http://www.saint-nazaire-tourisme.com/",
+        "lien_site": "🌐 [[http://www.saint-nazaire-tourisme.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2757607%2C-2.2035293|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8190789,
+          46.9923661
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME SUD RETZ ATLANTIQUE",
+        "adresse": "14 place des Halles",
+        "commune": "MACHECOUL-SAINT-MEME",
+        "code_postal": "44270",
+        "id_tourinsoft": "ORGPDL044V500605",
+        "latitude": 46.9923661,
+        "longitude": -1.8190789,
+        "telephone": "02 40 31 42 87",
+        "site_internet": "https://www.sudretzatlantique-tourisme.fr",
+        "lien_site": "🌐 [[https://www.sudretzatlantique-tourisme.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=46.9923661%2C-1.8190789|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1908943,
+          47.1378795
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME INTERCOMMUNAL DE PORNIC - LA PLAINE-SUR-MER",
+        "adresse": "1 rue de la Croix Mouraud",
+        "commune": "LA PLAINE-SUR-MER",
+        "code_postal": "44770",
+        "id_tourinsoft": "ORGPDL044V50060A",
+        "latitude": 47.1378795,
+        "longitude": -2.1908943,
+        "telephone": "02 40 21 52 52",
+        "site_internet": "https://www.pornic.com/contact-la-plaine-sur-mer-office-de-tourisme-la-plaine-horaires-ouverture-ot-la-plaine-sur-mer.html",
+        "lien_site": "🌐 [[https://www.pornic.com/contact-la-plaine-sur-mer-office-de-tourisme-la-plaine-horaires-ouverture-ot-la-plaine-sur-mer.html|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.1378795%2C-2.1908943|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5248683,
+          47.3397661
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME ERDRE CANAL FORÊT - SUCÉ-SUR-ERDRE",
+        "adresse": "Quai de cricklade",
+        "commune": "SUCE-SUR-ERDRE",
+        "code_postal": "44240",
+        "id_tourinsoft": "ORGPDL044V500B9U",
+        "latitude": 47.3397661,
+        "longitude": -1.5248683,
+        "telephone": "02 40 77 70 66",
+        "site_internet": "https://www.erdrecanalforet.fr/3782-nos-bureaux-et-horaires.html",
+        "lien_site": "🌐 [[https://www.erdrecanalforet.fr/3782-nos-bureaux-et-horaires.html|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3397661%2C-1.5248683|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1781011,
+          47.3640001
+        ]
+      },
+      "properties": {
+        "name": "Espace Tourisme & Loisirs du Pays d'Ancenis",
+        "adresse": "103 Rue des Douves",
+        "commune": "ANCENIS-SAINT-GEREON",
+        "code_postal": "44150",
+        "id_tourinsoft": "ORGPDL044V501DUK",
+        "latitude": 47.3640001,
+        "longitude": -1.1781011,
+        "telephone": "02 40 83 07 44",
+        "site_internet": "https://www.bienvenue-pays-ancenis.com/",
+        "lien_site": "🌐 [[https://www.bienvenue-pays-ancenis.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3640001%2C-1.1781011|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.512512,
+          47.347991
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME DE LA TURBALLE",
+        "adresse": "Place Général de Gaulle",
+        "commune": "LA TURBALLE",
+        "code_postal": "44420",
+        "id_tourinsoft": "ORGPDL044V502AN7",
+        "latitude": 47.347991,
+        "longitude": -2.512512,
+        "telephone": "02 40 23 39 87",
+        "site_internet": "https://www.labaule-guerande.com/la-turballe.html",
+        "lien_site": "🌐 [[https://www.labaule-guerande.com/la-turballe.html|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.347991%2C-2.512512|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0976287,
+          47.1142617
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME INTERCOMMUNAL DE PORNIC",
+        "adresse": "Place de la Gare",
+        "commune": "PORNIC",
+        "code_postal": "44210",
+        "id_tourinsoft": "ORGPDL044V502AOY",
+        "latitude": 47.1142617,
+        "longitude": -2.0976287,
+        "telephone": "02 40 82 04 40",
+        "site_internet": "https://www.pornic.com/",
+        "lien_site": "🌐 [[https://www.pornic.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.1142617%2C-2.0976287|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.288225,
+          47.340905
+        ]
+      },
+      "properties": {
+        "name": "TINY - OFFICE DE TOURISME DE SAINT ANDRÉ-DES-EAUX",
+        "adresse": "Port de la Chaussée Neuve",
+        "commune": "SAINT-ANDRE-DES-EAUX",
+        "code_postal": "44117",
+        "id_tourinsoft": "ORGPDL044V502APF",
+        "latitude": 47.340905,
+        "longitude": -2.288225,
+        "telephone": "02 40 22 40 65",
+        "site_internet": "https://www.saint-nazaire-tourisme.com/decouvrir/decouvrir-la-nature/parc-naturel-regional-de-briere/",
+        "lien_site": "🌐 [[https://www.saint-nazaire-tourisme.com/decouvrir/decouvrir-la-nature/parc-naturel-regional-de-briere/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.340905%2C-2.288225|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0004946,
+          47.0636287
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME INTERCOMMUNAL DE PORNIC - LES MOUTIERS EN RETZ",
+        "adresse": "14 place de l'Eglise Madame",
+        "commune": "LES MOUTIERS-EN-RETZ",
+        "code_postal": "44760",
+        "id_tourinsoft": "ORGPDL044V503A1O",
+        "latitude": 47.0636287,
+        "longitude": -2.0004946,
+        "telephone": "02 40 82 74 00",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.0636287%2C-2.0004946|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7647022,
+          47.475515
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME ERDRE CANAL FORÊT - BLAIN",
+        "adresse": "2 place Jean Guihard",
+        "commune": "BLAIN",
+        "code_postal": "44130",
+        "id_tourinsoft": "ORGPDL044V503INM",
+        "latitude": 47.475515,
+        "longitude": -1.7647022,
+        "telephone": "02 40 87 15 11",
+        "site_internet": "https://www.erdrecanalforet.fr/3782-nos-bureaux-et-horaires.html",
+        "lien_site": "🌐 [[https://www.erdrecanalforet.fr/3782-nos-bureaux-et-horaires.html|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.475515%2C-1.7647022|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3737453,
+          47.7185076
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME INTERCOMMUNAL CHATEAUBRIANT - DERVAL",
+        "adresse": "29 place Charles de Gaulle",
+        "commune": "CHATEAUBRIANT",
+        "code_postal": "44110",
+        "id_tourinsoft": "ORGPDL044V503INT",
+        "latitude": 47.7185076,
+        "longitude": -1.3737453,
+        "telephone": "02 40 28 20 90",
+        "site_internet": "http://www.tourisme-chateaubriant.fr/",
+        "lien_site": "🌐 [[http://www.tourisme-chateaubriant.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.7185076%2C-1.3737453|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8332926,
+          47.6280051
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME DU PAYS DE REDON",
+        "adresse": "9 bis place Simon",
+        "commune": "GUEMENE-PENFAO",
+        "code_postal": "44290",
+        "id_tourinsoft": "ORGPDL044V503IRG",
+        "latitude": 47.6280051,
+        "longitude": -1.8332926,
+        "telephone": "02 40 79 30 83",
+        "site_internet": "https://www.tourisme-pays-redon.com/",
+        "lien_site": "🌐 [[https://www.tourisme-pays-redon.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.6280051%2C-1.8332926|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6373487,
+          47.0976354
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME DE GRAND LIEU  - LA CHEVROLIERE",
+        "adresse": "16 rue Yves Brisson Passay",
+        "commune": "LA CHEVROLIERE",
+        "code_postal": "44118",
+        "id_tourinsoft": "ORGPDL044V503IRH",
+        "latitude": 47.0976354,
+        "longitude": -1.6373487,
+        "telephone": "02 40 78 73 88",
+        "site_internet": "http://grandlieu-tourisme.fr",
+        "lien_site": "🌐 [[http://grandlieu-tourisme.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.0976354%2C-1.6373487|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1753831,
+          47.2285837
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME INTERCOMMUNAL DE SAINT-BREVIN - BUREAU DE L'OCÉAN",
+        "adresse": "Place René Guy Cadou",
+        "commune": "SAINT-BREVIN-LES-PINS",
+        "code_postal": "44250",
+        "id_tourinsoft": "ORGPDL044V503XBH",
+        "latitude": 47.2285837,
+        "longitude": -2.1753831,
+        "telephone": "02 40 27 24 32",
+        "site_internet": "https://www.saint-brevin.com/",
+        "lien_site": "🌐 [[https://www.saint-brevin.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2285837%2C-2.1753831|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3367064,
+          47.2605088
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME DE PORNICHET",
+        "adresse": "3 Boulevard de la République",
+        "commune": "PORNICHET",
+        "code_postal": "44380",
+        "id_tourinsoft": "ORGPDL044V50CTML",
+        "latitude": 47.2605088,
+        "longitude": -2.3367064,
+        "telephone": "02 40 61 33 33",
+        "site_internet": "https://www.pornichet.fr/",
+        "lien_site": "🌐 [[https://www.pornichet.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2605088%2C-2.3367064|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9563,
+          47.04084
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME INTERCOMMUNAL DE PORNIC - VILLENEUVE EN RETZ",
+        "adresse": "Route de Bouin",
+        "commune": "VILLENEUVE-EN-RETZ",
+        "code_postal": "44580",
+        "id_tourinsoft": "ORGPDL044V51HXBF",
+        "latitude": 47.04084,
+        "longitude": -1.9563,
+        "telephone": "02 40 21 17 88",
+        "site_internet": "https://www.pornic.com/horaires-ouverture-office-de-tourisme-villeneuve-en-retz-horaire-ot-bourgneuf.html",
+        "lien_site": "🌐 [[https://www.pornic.com/horaires-ouverture-office-de-tourisme-villeneuve-en-retz-horaire-ot-bourgneuf.html|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.04084%2C-1.9563|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2899309,
+          47.3460045
+        ]
+      },
+      "properties": {
+        "name": "Château Médiéval d'Oudon",
+        "adresse": "11 rue du Pont Levis",
+        "commune": "OUDON",
+        "code_postal": "44521",
+        "id_tourinsoft": "PCUPDL044000001",
+        "latitude": 47.3460045,
+        "longitude": -1.2899309,
+        "telephone": "02 40 83 80 04",
+        "site_internet": "https://www.oudon-art-patrimoine.fr/ch%C3%A2teau-d-oudon-1",
+        "lien_site": "🌐 [[https://www.oudon-art-patrimoine.fr/ch%C3%A2teau-d-oudon-1|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3460045%2C-1.2899309|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3300684,
+          47.134658
+        ]
+      },
+      "properties": {
+        "name": "Musée du Vignoble Nantais",
+        "adresse": "82 rue Pierre Abelard",
+        "commune": "LE PALLET",
+        "code_postal": "44330",
+        "id_tourinsoft": "PCUPDL044000054",
+        "latitude": 47.134658,
+        "longitude": -1.3300684,
+        "telephone": "02 40 80 90 13",
+        "site_internet": "http://www.musee-vignoble-nantais.eu/",
+        "lien_site": "🌐 [[http://www.musee-vignoble-nantais.eu/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.134658%2C-1.3300684|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2984857,
+          47.106483
+        ]
+      },
+      "properties": {
+        "name": "Le Moulin à Papier du Liveau",
+        "adresse": "Le Liveau",
+        "commune": "GORGES",
+        "code_postal": "44190",
+        "id_tourinsoft": "PCUPDL044000058",
+        "latitude": 47.106483,
+        "longitude": -1.2984857,
+        "telephone": "06 16 11 89 50",
+        "site_internet": "http://www.lemoulinapapierduliveau.com",
+        "lien_site": "🌐 [[http://www.lemoulinapapierduliveau.com|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.106483%2C-1.2984857|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3722678,
+          47.7185264
+        ]
+      },
+      "properties": {
+        "name": "CHÂTEAU DE CHÂTEAUBRIANT, GRAND PATRIMOINE DE LOIRE-ATLANTIQUE",
+        "adresse": "Place Charles de Gaulle",
+        "commune": "CHATEAUBRIANT",
+        "code_postal": "44110",
+        "id_tourinsoft": "PCUPDL044000063",
+        "latitude": 47.7185264,
+        "longitude": -1.3722678,
+        "telephone": "02 40 28 20 20",
+        "site_internet": "https://www.chateau-chateaubriant.fr/",
+        "lien_site": "🌐 [[https://www.chateau-chateaubriant.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.7185264%2C-1.3722678|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4027087,
+          47.2044173
+        ]
+      },
+      "properties": {
+        "name": "Château de Goulaine",
+        "adresse": "Allée du château",
+        "commune": "HAUTE-GOULAINE",
+        "code_postal": "44115",
+        "id_tourinsoft": "PCUPDL044000064",
+        "latitude": 47.2044173,
+        "longitude": -1.4027087,
+        "telephone": "02 40 54 91 42",
+        "site_internet": "http://www.chateaudegoulaine.fr",
+        "lien_site": "🌐 [[http://www.chateaudegoulaine.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2044173%2C-1.4027087|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.002965,
+          47.405367
+        ]
+      },
+      "properties": {
+        "name": "Moulin de la Bicane",
+        "adresse": "1 la Bicane",
+        "commune": "CAMPBON",
+        "code_postal": "44750",
+        "id_tourinsoft": "PCUPDL044000097",
+        "latitude": 47.405367,
+        "longitude": -2.002965,
+        "telephone": "0601025465",
+        "site_internet": "https://moulindelabicane.wixsite.com/lesventsdanges",
+        "lien_site": "🌐 [[https://moulindelabicane.wixsite.com/lesventsdanges|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.405367%2C-2.002965|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.577289,
+          47.2021694
+        ]
+      },
+      "properties": {
+        "name": "PLANÉTARIUM",
+        "adresse": "8 Rue des Acadiens",
+        "commune": "NANTES",
+        "code_postal": "44100",
+        "id_tourinsoft": "PCUPDL044105137",
+        "latitude": 47.2021694,
+        "longitude": -1.577289,
+        "telephone": "02 40 73 99 23",
+        "site_internet": "https://planetarium.nantesmetropole.fr/accueil.html",
+        "lien_site": "🌐 [[https://planetarium.nantesmetropole.fr/accueil.html|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2021694%2C-1.577289|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.564654,
+          47.2058839
+        ]
+      },
+      "properties": {
+        "name": "LES MACHINES DE L'ILE",
+        "adresse": "Boulevard Léon Bureau",
+        "commune": "NANTES",
+        "code_postal": "44200",
+        "id_tourinsoft": "PCUPDL044105202",
+        "latitude": 47.2058839,
+        "longitude": -1.564654,
+        "site_internet": "http://www.lesmachines-nantes.fr",
+        "lien_site": "🌐 [[http://www.lesmachines-nantes.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2058839%2C-1.564654|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3849236,
+          47.2041437
+        ]
+      },
+      "properties": {
+        "name": "La Maison Bleue Expositions",
+        "adresse": "136 route du pont de l'Ouen",
+        "commune": "HAUTE-GOULAINE",
+        "code_postal": "44115",
+        "id_tourinsoft": "PCUPDL044V50031L",
+        "latitude": 47.2041437,
+        "longitude": -1.3849236,
+        "telephone": "06 43 87 28 19",
+        "site_internet": "http://www.hautegoulaine.fr",
+        "lien_site": "🌐 [[http://www.hautegoulaine.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2041437%2C-1.3849236|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.58077,
+          46.9646662
+        ]
+      },
+      "properties": {
+        "name": "CPIE LOGNE ET GRAND-LIEU",
+        "adresse": "8 rue Sainte Radegonde",
+        "commune": "CORCOUE-SUR-LOGNE",
+        "code_postal": "44650",
+        "id_tourinsoft": "PCUPDL044V500916",
+        "latitude": 46.9646662,
+        "longitude": -1.58077,
+        "telephone": "02 40 05 92 31",
+        "site_internet": "http://cpie-logne-grandlieu.org",
+        "lien_site": "🌐 [[http://cpie-logne-grandlieu.org|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=46.9646662%2C-1.58077|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.295117,
+          47.439772
+        ]
+      },
+      "properties": {
+        "name": "Parc de Sculptures Monumentales - Lambert Sculpteur",
+        "adresse": "5 La Petite Fournerie",
+        "commune": "MOUZEIL",
+        "code_postal": "44850",
+        "id_tourinsoft": "PCUPDL044V500DN2",
+        "latitude": 47.439772,
+        "longitude": -1.295117,
+        "telephone": "02 40 97 72 79",
+        "site_internet": "https://www.cosmose.org/",
+        "lien_site": "🌐 [[https://www.cosmose.org/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.439772%2C-1.295117|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1989192,
+          47.2756141
+        ]
+      },
+      "properties": {
+        "name": "LE SOUS-MARIN ESPADON",
+        "adresse": "Avenue de la Forme écluse",
+        "commune": "SAINT-NAZAIRE",
+        "code_postal": "44600",
+        "id_tourinsoft": "PCUPDL044V501GDY",
+        "latitude": 47.2756141,
+        "longitude": -2.1989192,
+        "telephone": "02 28 54 06 40",
+        "site_internet": "https://www.saint-nazaire-tourisme.com/les-visites/les-sites-de-visite/espadon/",
+        "lien_site": "🌐 [[https://www.saint-nazaire-tourisme.com/les-visites/les-sites-de-visite/espadon/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2756141%2C-2.1989192|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3463906,
+          47.7249616
+        ]
+      },
+      "properties": {
+        "name": "MUSÉE DE LA RÉSISTANCE",
+        "adresse": "La Sablière",
+        "commune": "CHATEAUBRIANT",
+        "code_postal": "44110",
+        "id_tourinsoft": "PCUPDL044V501L16",
+        "latitude": 47.7249616,
+        "longitude": -1.3463906,
+        "telephone": "02 40 28 60 36",
+        "site_internet": "https://www.musee-resistance-chateaubriant.fr",
+        "lien_site": "🌐 [[https://www.musee-resistance-chateaubriant.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.7249616%2C-1.3463906|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1986134,
+          47.2740054
+        ]
+      },
+      "properties": {
+        "name": "ECOMUSÉE DE SAINT-NAZAIRE",
+        "adresse": "Avenue de Saint-Hubert",
+        "commune": "SAINT-NAZAIRE",
+        "code_postal": "44600",
+        "id_tourinsoft": "PCUPDL044V501OTI",
+        "latitude": 47.2740054,
+        "longitude": -2.1986134,
+        "telephone": "02 28 54 06 40",
+        "site_internet": "https://www.saint-nazaire-tourisme.com/les-visites/les-sites-de-visite/ecomusee/",
+        "lien_site": "🌐 [[https://www.saint-nazaire-tourisme.com/les-visites/les-sites-de-visite/ecomusee/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2740054%2C-2.1986134|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6960219,
+          47.1376712
+        ]
+      },
+      "properties": {
+        "name": "MAISON DU LAC DE GRAND-LIEU",
+        "adresse": "Rue du lac",
+        "commune": "BOUAYE",
+        "code_postal": "44830",
+        "id_tourinsoft": "PCUPDL044V5062U1",
+        "latitude": 47.1376712,
+        "longitude": -1.6960219,
+        "telephone": "02 28 25 19 07",
+        "site_internet": "https://www.maisondulacdegrandlieu.org",
+        "lien_site": "🌐 [[https://www.maisondulacdegrandlieu.org|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.1376712%2C-1.6960219|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.564773,
+          47.191779
+        ]
+      },
+      "properties": {
+        "name": "LE CHRONOGRAPHE",
+        "adresse": "21 rue de Saint Lupien",
+        "commune": "REZE",
+        "code_postal": "44400",
+        "id_tourinsoft": "PCUPDL044V50HMRP",
+        "latitude": 47.191779,
+        "longitude": -1.564773,
+        "telephone": "0252108320",
+        "site_internet": "https://lechronographe.nantesmetropole.fr",
+        "lien_site": "🌐 [[https://lechronographe.nantesmetropole.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.191779%2C-1.564773|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1989294,
+          47.2755946
+        ]
+      },
+      "properties": {
+        "name": "EOL CENTRE ÉOLIEN SAINT-NAZAIRE",
+        "adresse": "Avenue de la Forme-Ecluse",
+        "commune": "SAINT-NAZAIRE",
+        "code_postal": "44600",
+        "id_tourinsoft": "PCUPDL044V50LR9U",
+        "latitude": 47.2755946,
+        "longitude": -2.1989294,
+        "telephone": "02 28 54 06 40",
+        "site_internet": "https://www.saint-nazaire-tourisme.com/les-visites/les-sites-de-visite/eol-centre-eolien/",
+        "lien_site": "🌐 [[https://www.saint-nazaire-tourisme.com/les-visites/les-sites-de-visite/eol-centre-eolien/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2755946%2C-2.1989294|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1825873,
+          47.5156901
+        ]
+      },
+      "properties": {
+        "name": "Musée L'Aventure Braud",
+        "adresse": "",
+        "commune": "VALLONS-DE-L'ERDRE",
+        "code_postal": "44540",
+        "id_tourinsoft": "PCUPDL044V50S3RI",
+        "latitude": 47.5156901,
+        "longitude": -1.1825873,
+        "telephone": "06 35 90 20 40",
+        "site_internet": "https://www/facebook.com/BraudMateriel",
+        "lien_site": "🌐 [[https://www/facebook.com/BraudMateriel|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.5156901%2C-1.1825873|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8270048,
+          46.9933827
+        ]
+      },
+      "properties": {
+        "name": "LA CORDERIE PLANTIVE",
+        "adresse": "4 bis Rue des Marais",
+        "commune": "MACHECOUL-SAINT-MEME",
+        "code_postal": "44270",
+        "id_tourinsoft": "PCUPDL044V50Y5I8",
+        "latitude": 46.9933827,
+        "longitude": -1.8270048,
+        "telephone": "07 57 87 13 18",
+        "site_internet": "https://www.corderie-plantive.com/",
+        "lien_site": "🌐 [[https://www.corderie-plantive.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=46.9933827%2C-1.8270048|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.29934,
+          47.44494
+        ]
+      },
+      "properties": {
+        "name": "Château de Ranrouët",
+        "adresse": "Château de Ranrouët",
+        "commune": "HERBIGNAC",
+        "code_postal": "44410",
+        "id_tourinsoft": "PCUUCHATEAURANROUET",
+        "latitude": 47.44494,
+        "longitude": -2.29934,
+        "telephone": "02 40 88 96 17",
+        "site_internet": "http://www.chateauderanrouet.fr",
+        "lien_site": "🌐 [[http://www.chateauderanrouet.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.44494%2C-2.29934|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.43093,
+          47.29488
+        ]
+      },
+      "properties": {
+        "name": "La Maison des Paludiers",
+        "adresse": "18 rue des Prés Garnier",
+        "commune": "GUERANDE",
+        "code_postal": "44350",
+        "id_tourinsoft": "PCUUINDIVMAISONPALUDIERS",
+        "latitude": 47.29488,
+        "longitude": -2.43093,
+        "telephone": "09 53 07 74 06",
+        "site_internet": "http://www.maisondespaludiers.fr",
+        "lien_site": "🌐 [[http://www.maisondespaludiers.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.29488%2C-2.43093|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.43093,
+          47.29488
+        ]
+      },
+      "properties": {
+        "name": "La Maison des Paludiers",
+        "adresse": "18 rue des Prés Garnier",
+        "commune": "GUERANDE",
+        "code_postal": "44350",
+        "id_tourinsoft": "PCUUMAISONPALUDIERS",
+        "latitude": 47.29488,
+        "longitude": -2.43093,
+        "telephone": "09 53 07 74 06",
+        "site_internet": "http://www.maisondespaludiers.fr",
+        "lien_site": "🌐 [[http://www.maisondespaludiers.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.29488%2C-2.43093|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1546426,
+          47.3280249
+        ]
+      },
+      "properties": {
+        "name": "MUSÉE DE LA MARINE EN BOIS DU BRIVET",
+        "adresse": "6 rue de Chateaubriand",
+        "commune": "MONTOIR-DE-BRETAGNE",
+        "code_postal": "44550",
+        "id_tourinsoft": "PCUUMARINEBOISBRIVET",
+        "latitude": 47.3280249,
+        "longitude": -2.1546426,
+        "telephone": "02 40 45 58 22",
+        "site_internet": "http://www.marineenboisdubrivet.fr",
+        "lien_site": "🌐 [[http://www.marineenboisdubrivet.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3280249%2C-2.1546426|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.498159,
+          47.260097
+        ]
+      },
+      "properties": {
+        "name": "Comfort Aparthotel Nantes – La Beaujoire",
+        "adresse": "2 rue des Citrines",
+        "commune": "NANTES",
+        "code_postal": "44300",
+        "id_tourinsoft": "RETOUPDL044214867",
+        "latitude": 47.260097,
+        "longitude": -1.498159,
+        "telephone": "02 28 08 80 00",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.260097%2C-1.498159|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.206208,
+          47.296972
+        ]
+      },
+      "properties": {
+        "name": "BEST WESTERN LES AURELIADES",
+        "adresse": "11 avenue Barbara",
+        "commune": "TRIGNAC",
+        "code_postal": "44570",
+        "id_tourinsoft": "RETOUPDL044V50163Z",
+        "latitude": 47.296972,
+        "longitude": -2.206208,
+        "telephone": "02 40 91 40 21",
+        "site_internet": "https://www.bestwestern.fr/fr/hotel-Trignac-Best-Western-Les-Aureliades-93973",
+        "lien_site": "🌐 [[https://www.bestwestern.fr/fr/hotel-Trignac-Best-Western-Les-Aureliades-93973|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.296972%2C-2.206208|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2104434,
+          47.2827448
+        ]
+      },
+      "properties": {
+        "name": "ZENITUDE HÔTEL RESIDENCES SAINT-NAZAIRE LES PORTES DE L'OCEAN ***",
+        "adresse": "47 Boulevard de la Libération",
+        "commune": "SAINT-NAZAIRE",
+        "code_postal": "44600",
+        "id_tourinsoft": "RETOUPDL044V501693",
+        "latitude": 47.2827448,
+        "longitude": -2.2104434,
+        "telephone": "02 40 00 64 88",
+        "site_internet": "https://www.zenitude-hotel-residences.com/fr_FR/residence/saint-nazaire/123",
+        "lien_site": "🌐 [[https://www.zenitude-hotel-residences.com/fr_FR/residence/saint-nazaire/123|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2827448%2C-2.2104434|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5090045,
+          47.2511795
+        ]
+      },
+      "properties": {
+        "name": "RÉSIDENCE ZENITUDE NANTES MÉTROPOLE",
+        "adresse": "23/25 rue du Chemin Rouge",
+        "commune": "NANTES",
+        "code_postal": "44300",
+        "id_tourinsoft": "RETOUPDL044V511A93",
+        "latitude": 47.2511795,
+        "longitude": -1.5090045,
+        "telephone": "02 40 75 77 63",
+        "site_internet": "https://www.zenitude-hotel-residences.com/fr_FR/residence/nantes/155",
+        "lien_site": "🌐 [[https://www.zenitude-hotel-residences.com/fr_FR/residence/nantes/155|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2511795%2C-1.5090045|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3133,
+          47.26311
+        ]
+      },
+      "properties": {
+        "name": "Pierre & Vacances - Le Domaine du Bois de la Grée ***",
+        "adresse": "PV Residences et Resorts France",
+        "commune": "PORNICHET",
+        "code_postal": "75947",
+        "id_tourinsoft": "RETOURBOISLAGREE",
+        "latitude": 47.26311,
+        "longitude": -2.3133,
+        "telephone": "02 40 00 26 50",
+        "site_internet": "https://www.pierreetvacances.fr",
+        "lien_site": "🌐 [[https://www.pierreetvacances.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.26311%2C-2.3133|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.44336,
+          47.26412
+        ]
+      },
+      "properties": {
+        "name": "Le Domaine de Cramphore - Pierre et Vacances",
+        "adresse": "74 boulevard de l'Atlantique",
+        "commune": "LE POULIGUEN",
+        "code_postal": "44510",
+        "id_tourinsoft": "RETOURDOMAINEDECRAMPHORE",
+        "latitude": 47.26412,
+        "longitude": -2.44336,
+        "telephone": "0 892 702 180",
+        "site_internet": "http://www.pierreetvacances.com",
+        "lien_site": "🌐 [[http://www.pierreetvacances.com|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.26412%2C-2.44336|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.06986,
+          47.10305
+        ]
+      },
+      "properties": {
+        "name": "Résidence Eco-Domaine la Fontaine",
+        "adresse": "Rue des Noëlles",
+        "commune": "PORNIC",
+        "code_postal": "44210",
+        "id_tourinsoft": "RETOURETOURHPOECODOMAINE",
+        "latitude": 47.10305,
+        "longitude": -2.06986,
+        "telephone": "02 51 74 07 07",
+        "site_internet": "http://www.ecodomaine-la-fontaine.fr",
+        "lien_site": "🌐 [[http://www.ecodomaine-la-fontaine.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.10305%2C-2.06986|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9688614,
+          47.4127385
+        ]
+      },
+      "properties": {
+        "name": "LA DUCHERAIS  PEP 44",
+        "adresse": "",
+        "commune": "CAMPBON",
+        "code_postal": "44750",
+        "id_tourinsoft": "VILPDL044000073",
+        "latitude": 47.4127385,
+        "longitude": -1.9688614,
+        "telephone": "02.40.56.74.66",
+        "site_internet": "http://pep-atlantique-anjou.fr/campbon-la-ducherais/",
+        "lien_site": "🌐 [[http://pep-atlantique-anjou.fr/campbon-la-ducherais/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.4127385%2C-1.9688614|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.54679,
+          47.29349
+        ]
+      },
+      "properties": {
+        "name": "AVMA Domaine de Port aux Rocs® Village et Locations de Vacances",
+        "adresse": "44 avenue Port-Val",
+        "commune": "LE CROISIC",
+        "code_postal": "44490",
+        "id_tourinsoft": "VILRPORTAUXROCS",
+        "latitude": 47.29349,
+        "longitude": -2.54679,
+        "telephone": "02 40 11 44 44",
+        "site_internet": "http://www.domaine-portauxrocs.eu",
+        "lien_site": "🌐 [[http://www.domaine-portauxrocs.eu|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.29349%2C-2.54679|M'y rendre]]"
       }
     }
   ]
