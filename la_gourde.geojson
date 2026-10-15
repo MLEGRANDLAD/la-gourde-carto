@@ -16,6 +16,8 @@
         "commune": "LA PLAINE-SUR-MER",
         "code_postal": "44770",
         "id_tourinsoft": "LOILA0013PDL044V5005HW",
+        "latitude": 47.13775,
+        "longitude": -2.19055,
         "telephone": "02 51 74 81 92",
         "site_internet": "http://mediatheque.laplainesurmer.fr",
         "lien_site": "🌐 [[http://mediatheque.laplainesurmer.fr|Site internet]]"
@@ -36,6 +38,8 @@
         "commune": "SAINT-BREVIN-LES-PINS",
         "code_postal": "44250",
         "id_tourinsoft": "LOILATELIERVELO44PINS",
+        "latitude": 47.24625,
+        "longitude": -2.16661,
         "telephone": "02 40 39 75 27",
         "site_internet": "https://www.ateliervelo44.com/",
         "lien_site": "🌐 [[https://www.ateliervelo44.com/|Site internet]]"
@@ -56,6 +60,8 @@
         "commune": "LE POULIGUEN",
         "code_postal": "44510",
         "id_tourinsoft": "LOILBIKEVASIONLP",
+        "latitude": 47.27834,
+        "longitude": -2.42891,
         "telephone": "02 40 24 09 10",
         "site_internet": "http://www.bikevasion.fr",
         "lien_site": "🌐 [[http://www.bikevasion.fr|Site internet]]"
@@ -76,6 +82,8 @@
         "commune": "PORNIC",
         "code_postal": "44210",
         "id_tourinsoft": "LOILLHIRONDELLE",
+        "latitude": 47.11253,
+        "longitude": -2.03824,
         "telephone": "02 51 74 02 62",
         "site_internet": "http://www.associationhirondelle.fr",
         "lien_site": "🌐 [[http://www.associationhirondelle.fr|Site internet]]"
@@ -96,6 +104,8 @@
         "commune": "FROSSAY",
         "code_postal": "44320",
         "id_tourinsoft": "LOILLOIPDL044000121",
+        "latitude": 47.23611,
+        "longitude": -1.95229,
         "telephone": "02 40 39 79 59",
         "site_internet": "http://www.definature.com",
         "lien_site": "🌐 [[http://www.definature.com|Site internet]]"
@@ -116,6 +126,8 @@
         "commune": "FROSSAY",
         "code_postal": "44320",
         "id_tourinsoft": "LOILLOIPDL044V50120Q",
+        "latitude": 47.25847,
+        "longitude": -1.91553,
         "telephone": "02 28 53 51 62",
         "site_internet": "http://www.quai-vert.com",
         "lien_site": "🌐 [[http://www.quai-vert.com|Site internet]]"
@@ -136,6 +148,8 @@
         "commune": "SAINT-VIAUD",
         "code_postal": "44320",
         "id_tourinsoft": "LOILLOIPDL044V503QXA",
+        "latitude": 47.2616,
+        "longitude": -2.0148,
         "telephone": "06 20 60 89 95",
         "site_internet": "https://www.tsn44.com/wakepark-saint-viaud",
         "lien_site": "🌐 [[https://www.tsn44.com/wakepark-saint-viaud|Site internet]]"
@@ -156,6 +170,8 @@
         "commune": "LE POULIGUEN",
         "code_postal": "44510",
         "id_tourinsoft": "LOILMICROFOLIELP",
+        "latitude": 47.27546,
+        "longitude": -2.43043,
         "telephone": "07 64 47 36 10",
         "lien_site": ""
       }
@@ -175,6 +191,8 @@
         "commune": "PORNICHET",
         "code_postal": "44380",
         "id_tourinsoft": "LOILUP2PLAY",
+        "latitude": 47.25786,
+        "longitude": -2.3051,
         "telephone": "02 19 000 400",
         "site_internet": "https://www.up2play.fr/pornichet/",
         "lien_site": "🌐 [[https://www.up2play.fr/pornichet/|Site internet]]"
@@ -195,6 +213,8 @@
         "commune": "NANTES",
         "code_postal": "44008",
         "id_tourinsoft": "LOIPDL044000164",
+        "latitude": 47.227977,
+        "longitude": -1.5516964,
         "telephone": "02.40.14.51.14",
         "site_internet": "https://www.bateaux-nantais.fr",
         "lien_site": "🌐 [[https://www.bateaux-nantais.fr|Site internet]]"
@@ -215,6 +235,8 @@
         "commune": "CLISSON",
         "code_postal": "44190",
         "id_tourinsoft": "LOIPDL044V5002YJ",
+        "latitude": 47.0967276,
+        "longitude": -1.2795375,
         "telephone": "02 40 54 39 59",
         "site_internet": "http://www.ckclisson.fr/",
         "lien_site": "🌐 [[http://www.ckclisson.fr/|Site internet]]"
@@ -235,6 +257,8 @@
         "commune": "SAINT-JULIEN-DE-CONCELLES",
         "code_postal": "44450",
         "id_tourinsoft": "LOIPDL044V50B9P8",
+        "latitude": 47.2525,
+        "longitude": -1.36902,
         "telephone": "02 40 36 85 79",
         "site_internet": "http://capsn.org/",
         "lien_site": "🌐 [[http://capsn.org/|Site internet]]"
@@ -255,6 +279,8 @@
         "commune": "SAINT-LUMINE-DE-COUTAIS",
         "code_postal": "44310",
         "id_tourinsoft": "LOIPDL044V50HGQB",
+        "latitude": 47.05006,
+        "longitude": -1.70079,
         "telephone": "06 09 95 44 84",
         "site_internet": "http://payzanes.wixsite.com/payzanes",
         "lien_site": "🌐 [[http://payzanes.wixsite.com/payzanes|Site internet]]"
@@ -275,6 +301,8 @@
         "commune": "NORT-SUR-ERDRE",
         "code_postal": "44390",
         "id_tourinsoft": "LOIPDL044V50L3IF",
+        "latitude": 47.4418789,
+        "longitude": -1.5031463,
         "telephone": "06 73 01 72 44",
         "site_internet": "https://cyclyo.fr/location/",
         "lien_site": "🌐 [[https://cyclyo.fr/location/|Site internet]]"
@@ -295,6 +323,8 @@
         "commune": "NANTES",
         "code_postal": "44100",
         "id_tourinsoft": "LOIPDL044V50M32B",
+        "latitude": 47.2048459,
+        "longitude": -1.5750603,
         "telephone": "06 79 35 83 89",
         "site_internet": "https://lepoupoupidou.fr/",
         "lien_site": "🌐 [[https://lepoupoupidou.fr/|Site internet]]"
@@ -315,6 +345,8 @@
         "commune": "SAFFRE",
         "code_postal": "44390",
         "id_tourinsoft": "LOIPDL044V510617",
+        "latitude": 47.4551705,
+        "longitude": -1.632818,
         "telephone": "06 71 48 29 75",
         "site_internet": "https://canalkayak.fr/#/",
         "lien_site": "🌐 [[https://canalkayak.fr/#/|Site internet]]"
@@ -335,6 +367,8 @@
         "commune": "NANTES",
         "code_postal": "44000",
         "id_tourinsoft": "LOIPDL044V51J3WJ",
+        "latitude": 47.2305163,
+        "longitude": -1.5633029,
         "telephone": "02 40 02 91 43",
         "site_internet": "https://lecyclenantais.fr/",
         "lien_site": "🌐 [[https://lecyclenantais.fr/|Site internet]]"
@@ -355,6 +389,8 @@
         "commune": "SAINT-NICOLAS-DE-REDON",
         "code_postal": "44460",
         "id_tourinsoft": "LOIPDL044V51JKDW",
+        "latitude": 47.64532,
+        "longitude": -2.07472,
         "telephone": "02 99 93 34 32",
         "lien_site": ""
       }
@@ -374,6 +410,8 @@
         "commune": "ANCENIS-SAINT-GEREON",
         "code_postal": "44150",
         "id_tourinsoft": "LOIPDL044V51L93A",
+        "latitude": 47.37464,
+        "longitude": -1.19693,
         "telephone": "02 40 09 18 29",
         "site_internet": "https://www.decathlon.fr/store-view/magasin-de-sports-decathlon-ancenis-saint-gereon-0070072100721",
         "lien_site": "🌐 [[https://www.decathlon.fr/store-view/magasin-de-sports-decathlon-ancenis-saint-gereon-0070072100721|Site internet]]"
@@ -394,6 +432,8 @@
         "commune": "SAINT-NAZAIRE",
         "code_postal": "44600",
         "id_tourinsoft": "LOIPDL044V51NS0X",
+        "latitude": 47.2740959,
+        "longitude": -2.2130288,
         "telephone": "02 28 54 06 40",
         "site_internet": "https://www.saint-nazaire-tourisme.com/",
         "lien_site": "🌐 [[https://www.saint-nazaire-tourisme.com/|Site internet]]"
@@ -414,6 +454,8 @@
         "commune": "OUDON",
         "code_postal": "44521",
         "id_tourinsoft": "LOIPDL049V5023B6",
+        "latitude": 47.3421116,
+        "longitude": -1.2917728,
         "telephone": "06 85 39 59 42",
         "site_internet": "http://www.locationkayak-loire.com",
         "lien_site": "🌐 [[http://www.locationkayak-loire.com|Site internet]]"
@@ -434,6 +476,8 @@
         "commune": "LE CROISIC",
         "code_postal": "44490",
         "id_tourinsoft": "LOIUOCEARIUM",
+        "latitude": 47.29964,
+        "longitude": -2.52376,
         "telephone": "02 40 23 02 44",
         "site_internet": "http://www.ocearium-croisic.fr",
         "lien_site": "🌐 [[http://www.ocearium-croisic.fr|Site internet]]"
