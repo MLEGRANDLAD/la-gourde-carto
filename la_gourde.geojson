@@ -1258,6 +1258,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.37375,
+          47.27864
+        ]
+      },
+      "properties": {
+        "name": "Ecole de Voile Latitude",
+        "adresse": "Face au 26 Boulevard de l'Océan",
+        "commune": "LA BAULE-ESCOUBLAC",
+        "code_postal": "44500",
+        "id_tourinsoft": "LOILLATITUDE",
+        "latitude": 47.27864,
+        "longitude": -2.37375,
+        "telephone": "06 77 22 39 73",
+        "site_internet": "http://www.latitude-voile.com",
+        "lien_site": "🌐 [[http://www.latitude-voile.com|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.27864%2C-2.37375|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.03824,
           47.11253
         ]
@@ -1640,6 +1663,28 @@
         "site_internet": "https://www.saint-nazaire-tourisme.com/",
         "lien_site": "🌐 [[https://www.saint-nazaire-tourisme.com/|Site internet]]",
         "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2740959%2C-2.2130288|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.572773,
+          47.2020345
+        ]
+      },
+      "properties": {
+        "name": "LE FERRAILLEUR",
+        "adresse": "Quai des Antilles",
+        "commune": "NANTES",
+        "code_postal": "44200",
+        "id_tourinsoft": "LOIPDL044V51RQM7",
+        "latitude": 47.2020345,
+        "longitude": -1.572773,
+        "site_internet": "https://www.leferrailleur.fr/",
+        "lien_site": "🌐 [[https://www.leferrailleur.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2020345%2C-1.572773|M'y rendre]]"
       }
     },
     {
@@ -3281,6 +3326,75 @@
         "telephone": "02 55 10 30 63",
         "lien_site": "",
         "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=46.88488%2C-1.59725|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5728946,
+          47.2013192
+        ]
+      },
+      "properties": {
+        "name": "LA TERRASSE DE L'ILE",
+        "adresse": "21 Quai des Antilles",
+        "commune": "NANTES",
+        "code_postal": "44200",
+        "id_tourinsoft": "RESPDL044V51RQKZ",
+        "latitude": 47.2013192,
+        "longitude": -1.5728946,
+        "telephone": "06 75 90 64 01",
+        "site_internet": "https://www.warehouse-nantes.fr/tdl",
+        "lien_site": "🌐 [[https://www.warehouse-nantes.fr/tdl|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2013192%2C-1.5728946|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5711322,
+          47.2010301
+        ]
+      },
+      "properties": {
+        "name": "LE CAFÉ DU SOLILAB",
+        "adresse": "8 Rue Saint Domingue",
+        "commune": "NANTES",
+        "code_postal": "44200",
+        "id_tourinsoft": "RESPDL044V51RQLU",
+        "latitude": 47.2010301,
+        "longitude": -1.5711322,
+        "telephone": "06 31 42 98 59",
+        "site_internet": "https://www.ecossolies.fr/solilab/cafe/",
+        "lien_site": "🌐 [[https://www.ecossolies.fr/solilab/cafe/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2010301%2C-1.5711322|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5682,
+          47.204778
+        ]
+      },
+      "properties": {
+        "name": "LE LABO DIVA",
+        "adresse": "24 Mail des Chantiers",
+        "commune": "NANTES",
+        "code_postal": "44200",
+        "id_tourinsoft": "RESPDL044V51RQMJ",
+        "latitude": 47.204778,
+        "longitude": -1.5682,
+        "telephone": "07 88 94 17 41",
+        "site_internet": "https://communile.fr/le-labo-diva",
+        "lien_site": "🌐 [[https://communile.fr/le-labo-diva|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.204778%2C-1.5682|M'y rendre]]"
       }
     },
     {
