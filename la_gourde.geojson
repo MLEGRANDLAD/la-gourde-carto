@@ -208,6 +208,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5569634,
+          47.2194145
+        ]
+      },
+      "properties": {
+        "name": "Ô Bocal",
+        "adresse": "10 bis Allée des Tanneurs",
+        "commune": "NANTES",
+        "code_postal": "44000",
+        "id_tourinsoft": "A0013PDL044V51RSCP",
+        "latitude": 47.2194145,
+        "longitude": -1.5569634,
+        "telephone": "02 28 29 74 86",
+        "site_internet": "https://obocal.com/",
+        "lien_site": "🌐 [[https://obocal.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2194145%2C-1.5569634|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6236642,
+          47.1793559
+        ]
+      },
+      "properties": {
+        "name": "Boulangerie LESOUT",
+        "adresse": "3 Place de l'Église",
+        "commune": "BOUGUENAIS",
+        "code_postal": "44340",
+        "id_tourinsoft": "A0013PDL044V51RSCY",
+        "latitude": 47.1793559,
+        "longitude": -1.6236642,
+        "telephone": "02 40 65 01 87",
+        "site_internet": "https://boulangerie-lesout-bouguenais.com/",
+        "lien_site": "🌐 [[https://boulangerie-lesout-bouguenais.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.1793559%2C-1.6236642|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0012774,
+          47.06294
+        ]
+      },
+      "properties": {
+        "name": "La Boîte Aux Fromages",
+        "adresse": "5 Place de l'Église Madame",
+        "commune": "LES MOUTIERS-EN-RETZ",
+        "code_postal": "44760",
+        "id_tourinsoft": "A0013PDL044V51RSHQ",
+        "latitude": 47.06294,
+        "longitude": -2.0012774,
+        "telephone": "02 51 74 93 97",
+        "site_internet": "https://www.laboiteauxfromages.fr",
+        "lien_site": "🌐 [[https://www.laboiteauxfromages.fr|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.06294%2C-2.0012774|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.92732,
           47.06093
         ]
@@ -1647,29 +1716,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2130288,
-          47.2740959
-        ]
-      },
-      "properties": {
-        "name": "SAINT-NAZAIRE RENVERSANTE",
-        "adresse": "",
-        "commune": "SAINT-NAZAIRE",
-        "code_postal": "44600",
-        "id_tourinsoft": "LOIPDL044V51NS0X",
-        "latitude": 47.2740959,
-        "longitude": -2.2130288,
-        "telephone": "02 28 54 06 40",
-        "site_internet": "https://www.saint-nazaire-tourisme.com/",
-        "lien_site": "🌐 [[https://www.saint-nazaire-tourisme.com/|Site internet]]",
-        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2740959%2C-2.2130288|M'y rendre]]"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.572773,
           47.2020345
         ]
@@ -2173,29 +2219,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8332926,
-          47.6280051
-        ]
-      },
-      "properties": {
-        "name": "OFFICE DE TOURISME DU PAYS DE REDON",
-        "adresse": "9 bis place Simon",
-        "commune": "GUEMENE-PENFAO",
-        "code_postal": "44290",
-        "id_tourinsoft": "ORGPDL044V503IRG",
-        "latitude": 47.6280051,
-        "longitude": -1.8332926,
-        "telephone": "02 40 79 30 83",
-        "site_internet": "https://www.tourisme-pays-redon.com/",
-        "lien_site": "🌐 [[https://www.tourisme-pays-redon.com/|Site internet]]",
-        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.6280051%2C-1.8332926|M'y rendre]]"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6373487,
           47.0976354
         ]
@@ -2281,6 +2304,29 @@
         "site_internet": "https://www.pornic.com/horaires-ouverture-office-de-tourisme-villeneuve-en-retz-horaire-ot-bourgneuf.html",
         "lien_site": "🌐 [[https://www.pornic.com/horaires-ouverture-office-de-tourisme-villeneuve-en-retz-horaire-ot-bourgneuf.html|Site internet]]",
         "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.04084%2C-1.9563|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0844873,
+          47.6515665
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME DU PAYS DE REDON",
+        "adresse": "Place de la République",
+        "commune": "REDON",
+        "code_postal": "35600",
+        "id_tourinsoft": "ORGPDL044V51RSI2",
+        "latitude": 47.6515665,
+        "longitude": -2.0844873,
+        "telephone": "02 99 71 06 04",
+        "site_internet": "https://www.tourisme-pays-redon.com/",
+        "lien_site": "🌐 [[https://www.tourisme-pays-redon.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.6515665%2C-2.0844873|M'y rendre]]"
       }
     },
     {
@@ -2678,22 +2724,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1825873,
-          47.5156901
+          -1.183411,
+          47.515537
         ]
       },
       "properties": {
         "name": "Musée L'Aventure Braud",
-        "adresse": "",
+        "adresse": "35bis rue d'Ancenis",
         "commune": "VALLONS-DE-L'ERDRE",
         "code_postal": "44540",
         "id_tourinsoft": "PCUPDL044V50S3RI",
-        "latitude": 47.5156901,
-        "longitude": -1.1825873,
+        "latitude": 47.515537,
+        "longitude": -1.183411,
         "telephone": "06 35 90 20 40",
-        "site_internet": "https://www/facebook.com/BraudMateriel",
-        "lien_site": "🌐 [[https://www/facebook.com/BraudMateriel|Site internet]]",
-        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.5156901%2C-1.1825873|M'y rendre]]"
+        "site_internet": "https://www.facebook.com/BraudMateriel",
+        "lien_site": "🌐 [[https://www.facebook.com/BraudMateriel|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.515537%2C-1.183411|M'y rendre]]"
       }
     },
     {
@@ -2717,6 +2763,29 @@
         "site_internet": "https://www.corderie-plantive.com/",
         "lien_site": "🌐 [[https://www.corderie-plantive.com/|Site internet]]",
         "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=46.9933827%2C-1.8270048|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2135993,
+          47.3723969
+        ]
+      },
+      "properties": {
+        "name": "MAISON DU PARC DE FEDRUN",
+        "adresse": "214 Fedrun",
+        "commune": "SAINT-JOACHIM",
+        "code_postal": "44720",
+        "id_tourinsoft": "PCUPDL044V51RSHG",
+        "latitude": 47.3723969,
+        "longitude": -2.2135993,
+        "telephone": "02 40 91 68 68",
+        "site_internet": "https://www.parc-naturel-briere.com/",
+        "lien_site": "🌐 [[https://www.parc-naturel-briere.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3723969%2C-2.2135993|M'y rendre]]"
       }
     },
     {
@@ -3272,7 +3341,7 @@
       },
       "properties": {
         "name": "Auberge Le Vieux Cellier - Restaurant / Traiteur",
-        "adresse": "",
+        "adresse": "22 rue de la mare",
         "commune": "LE CELLIER",
         "code_postal": "44850",
         "id_tourinsoft": "RESPDL044V51DCC3",
@@ -3402,22 +3471,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.10068,
-          47.11542
+          -1.5731637,
+          47.2008228
         ]
       },
       "properties": {
-        "name": "Restaurant La Station",
-        "adresse": "place de la gare",
-        "commune": "PORNIC",
-        "code_postal": "44680",
-        "id_tourinsoft": "RESRESTTLASTATION",
-        "latitude": 47.11542,
-        "longitude": -2.10068,
-        "telephone": "02 59 16 27 46",
-        "site_internet": "https://doux-reveurs.fr/on-the-rail-again",
-        "lien_site": "🌐 [[https://doux-reveurs.fr/on-the-rail-again|Site internet]]",
-        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.11542%2C-2.10068|M'y rendre]]"
+        "name": "CANAILLE CAFE-BRASSERIE",
+        "adresse": "21 Quai des Antilles",
+        "commune": "NANTES",
+        "code_postal": "44200",
+        "id_tourinsoft": "RESPDL044V51RSB2",
+        "latitude": 47.2008228,
+        "longitude": -1.5731637,
+        "telephone": "02 28 44 30 23",
+        "site_internet": "https://www.canaille-hab.com/",
+        "lien_site": "🌐 [[https://www.canaille-hab.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2008228%2C-1.5731637|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5278118,
+          47.1863454
+        ]
+      },
+      "properties": {
+        "name": "Chouquette et Bicyclette",
+        "adresse": "138 Route de Vertou",
+        "commune": "NANTES",
+        "code_postal": "44200",
+        "id_tourinsoft": "RESPDL044V51RSBM",
+        "latitude": 47.1863454,
+        "longitude": -1.5278118,
+        "telephone": "02 51 25 75 06",
+        "site_internet": "https://www.facebook.com/p/Chouquette-et-bicyclette-100092563328092/?locale=fr_FR",
+        "lien_site": "🌐 [[https://www.facebook.com/p/Chouquette-et-bicyclette-100092563328092/?locale=fr_FR|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.1863454%2C-1.5278118|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5572083,
+          47.2426166
+        ]
+      },
+      "properties": {
+        "name": "Guinguette Le Bivouac",
+        "adresse": "21 Boulevard du Petit Port",
+        "commune": "NANTES",
+        "code_postal": "44000",
+        "id_tourinsoft": "RESPDL044V51RSBR",
+        "latitude": 47.2426166,
+        "longitude": -1.5572083,
+        "telephone": "02 40 74 47 94",
+        "site_internet": "https://www.nantes-camping.fr/camping/guinguette.html",
+        "lien_site": "🌐 [[https://www.nantes-camping.fr/camping/guinguette.html|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2426166%2C-1.5572083|M'y rendre]]"
       }
     },
     {
