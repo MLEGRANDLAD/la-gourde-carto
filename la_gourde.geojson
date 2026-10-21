@@ -73,6 +73,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2880937,
+          47.3456702
+        ]
+      },
+      "properties": {
+        "name": "L'Échappée - Boutique/Café",
+        "adresse": "15 Square du Hâvre",
+        "commune": "OUDON",
+        "code_postal": "44521",
+        "id_tourinsoft": "A0013PDL044V51AW0C",
+        "latitude": 47.3456702,
+        "longitude": -1.2880937,
+        "telephone": "06 23 56 49 50",
+        "site_internet": "https://lechappee-oudon.fr/",
+        "lien_site": "🌐 [[https://lechappee-oudon.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3456702%2C-1.2880937|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.4055211,
           47.372818
         ]
@@ -1738,6 +1761,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5387771,
+          47.2588198
+        ]
+      },
+      "properties": {
+        "name": "CENTRE DE VOILE AMITIE NATURE",
+        "adresse": "Route de la Jonelière",
+        "commune": "LA CHAPELLE-SUR-ERDRE",
+        "code_postal": "44240",
+        "id_tourinsoft": "LOIPDL044V51RSYQ",
+        "latitude": 47.2588198,
+        "longitude": -1.5387771,
+        "telephone": "06 43 82 32 65",
+        "site_internet": "https://www.cvannantes.org/",
+        "lien_site": "🌐 [[https://www.cvannantes.org/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2588198%2C-1.5387771|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.2917728,
           47.3421116
         ]
@@ -2075,6 +2121,29 @@
         "site_internet": "https://www.bienvenue-pays-ancenis.com/",
         "lien_site": "🌐 [[https://www.bienvenue-pays-ancenis.com/|Site internet]]",
         "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.3640001%2C-1.1781011|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2172769,
+          47.1288113
+        ]
+      },
+      "properties": {
+        "name": "OFFICE DE TOURISME INTERCOMMUNAL DE PORNIC - PRÉFAILLES",
+        "adresse": "29 Grande Rue",
+        "commune": "PREFAILLES",
+        "code_postal": "44770",
+        "id_tourinsoft": "ORGPDL044V501E2K",
+        "latitude": 47.1288113,
+        "longitude": -2.2172769,
+        "telephone": "02 40 21 62 22",
+        "site_internet": "https://www.pornic.com/",
+        "lien_site": "🌐 [[https://www.pornic.com/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.1288113%2C-2.2172769|M'y rendre]]"
       }
     },
     {
@@ -3556,6 +3625,29 @@
         "site_internet": "http://www.embellie.org",
         "lien_site": "🌐 [[http://www.embellie.org|Site internet]]",
         "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.08081%2C-2.03667|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.81139,
+          47.10307
+        ]
+      },
+      "properties": {
+        "name": "Restaurant La Station",
+        "adresse": "place de la gare",
+        "commune": "PORNIC",
+        "code_postal": "44680",
+        "id_tourinsoft": "RESRESTTSPLASTATION",
+        "latitude": 47.10307,
+        "longitude": -1.81139,
+        "telephone": "02 59 16 27 46",
+        "site_internet": "https://doux-reveurs.fr/on-the-rail-again",
+        "lien_site": "🌐 [[https://doux-reveurs.fr/on-the-rail-again|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.10307%2C-1.81139|M'y rendre]]"
       }
     },
     {
