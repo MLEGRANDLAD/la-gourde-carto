@@ -300,6 +300,166 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.0613379,
+          47.2774151
+        ]
+      },
+      "properties": {
+        "name": "Boulangerie Pâtisserie Chouquette & Co",
+        "adresse": "3 Place Berthy Bouyer",
+        "commune": "CORSEPT",
+        "code_postal": "44560",
+        "id_tourinsoft": "A0013PDL044V51RTI7",
+        "latitude": 47.2774151,
+        "longitude": -2.0613379,
+        "telephone": "02 28 53 10 63",
+        "site_internet": "https://www.facebook.com/p/Chouquette-Co-61552186335101/?locale=fr_FR",
+        "lien_site": "🌐 [[https://www.facebook.com/p/Chouquette-Co-61552186335101/?locale=fr_FR|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2774151%2C-2.0613379|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.934339,
+          47.2445027
+        ]
+      },
+      "properties": {
+        "name": "Boulangerie-Pâtisserie Raimbault Stéphane",
+        "adresse": "19 Place de l'Église",
+        "commune": "FROSSAY",
+        "code_postal": "44320",
+        "id_tourinsoft": "A0013PDL044V51RTIA",
+        "latitude": 47.2445027,
+        "longitude": -1.934339,
+        "telephone": "02 40 39 74 63",
+        "site_internet": "https://www.facebook.com/p/Boulangerie-P%C3%A2tisserie-Raimbault-St%C3%A9phane-100077932281083/?locale=fr_FR",
+        "lien_site": "🌐 [[https://www.facebook.com/p/Boulangerie-P%C3%A2tisserie-Raimbault-St%C3%A9phane-100077932281083/?locale=fr_FR|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2445027%2C-1.934339|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.03125,
+          47.2898749
+        ]
+      },
+      "properties": {
+        "name": "Boulangerie Pâtisserie Begnic",
+        "adresse": "Quai Boulay Paty",
+        "commune": "PAIMBOEUF",
+        "code_postal": "44560",
+        "id_tourinsoft": "A0013PDL044V51RTIE",
+        "latitude": 47.2898749,
+        "longitude": -2.03125,
+        "telephone": "09 83 27 20 27",
+        "site_internet": "https://www.facebook.com/boulangeriebegnic/?locale=fr_FR",
+        "lien_site": "🌐 [[https://www.facebook.com/boulangeriebegnic/?locale=fr_FR|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2898749%2C-2.03125|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1664331,
+          47.2467815
+        ]
+      },
+      "properties": {
+        "name": "Boulangerie Pâtisserie Les Gourmandises de Lily",
+        "adresse": "7 Place de la Victoire",
+        "commune": "SAINT-BREVIN-LES-PINS",
+        "code_postal": "44250",
+        "id_tourinsoft": "A0013PDL044V51RTIJ",
+        "latitude": 47.2467815,
+        "longitude": -2.1664331,
+        "telephone": "02 40 27 25 69",
+        "site_internet": "https://www.facebook.com/Pedron.44/?locale=fr_FR",
+        "lien_site": "🌐 [[https://www.facebook.com/Pedron.44/?locale=fr_FR|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2467815%2C-2.1664331|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1659959,
+          47.2469089
+        ]
+      },
+      "properties": {
+        "name": "L’ÉPICERIE RETZ’AUNÉE",
+        "adresse": "10 Rue du Général de Gaulle",
+        "commune": "SAINT-BREVIN-LES-PINS",
+        "code_postal": "44250",
+        "id_tourinsoft": "A0013PDL044V51RTIN",
+        "latitude": 47.2469089,
+        "longitude": -2.1659959,
+        "site_internet": "https://epicerie-retzaunee.fr/",
+        "lien_site": "🌐 [[https://epicerie-retzaunee.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2469089%2C-2.1659959|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1649617,
+          47.2465286
+        ]
+      },
+      "properties": {
+        "name": "Passionnément Nature",
+        "adresse": "9 Rue de Pornic",
+        "commune": "SAINT-BREVIN-LES-PINS",
+        "code_postal": "44250",
+        "id_tourinsoft": "A0013PDL044V51RTJK",
+        "latitude": 47.2465286,
+        "longitude": -2.1649617,
+        "telephone": "02 40 27 83 02",
+        "site_internet": "https://Passionnément Nature",
+        "lien_site": "🌐 [[https://Passionnément Nature|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2465286%2C-2.1649617|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1708042,
+          47.2263409
+        ]
+      },
+      "properties": {
+        "name": "Les Fleurs de Bretagne",
+        "adresse": "96 Avenue du Président Roosevelt",
+        "commune": "SAINT-BREVIN-LES-PINS",
+        "code_postal": "44250",
+        "id_tourinsoft": "A0013PDL044V51RTJN",
+        "latitude": 47.2263409,
+        "longitude": -2.1708042,
+        "telephone": "02 40 27 20 92",
+        "site_internet": "https://fleurs-de-bretagne44.fr/",
+        "lien_site": "🌐 [[https://fleurs-de-bretagne44.fr/|Site internet]]",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2263409%2C-2.1708042|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.92732,
           47.06093
         ]
