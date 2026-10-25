@@ -3587,28 +3587,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2680227,
-          47.166654
-        ]
-      },
-      "properties": {
-        "name": "Complètement Bar'Jeux",
-        "adresse": "18 boulevard d'Alcester",
-        "commune": "VALLET",
-        "code_postal": "44330",
-        "id_tourinsoft": "RESPDL044V51ES7M",
-        "latitude": 47.166654,
-        "longitude": -1.2680227,
-        "telephone": "02-59-16-06-44",
-        "lien_site": "",
-        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.166654%2C-1.2680227|M'y rendre]]"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.59725,
           46.88488
         ]
