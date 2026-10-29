@@ -460,6 +460,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.4774496,
+          47.2790979
+        ]
+      },
+      "properties": {
+        "name": "Friperie l'Armoire du Bourg",
+        "adresse": "1 Rue de Kerbouchard",
+        "commune": "BATZ-SUR-MER",
+        "code_postal": "44740",
+        "id_tourinsoft": "A0013PDL044V51RWQ3",
+        "latitude": 47.2790979,
+        "longitude": -2.4774496,
+        "telephone": "06 67 50 66 33",
+        "lien_site": "",
+        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.2790979%2C-2.4774496|M'y rendre]]"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.92732,
           47.06093
         ]
