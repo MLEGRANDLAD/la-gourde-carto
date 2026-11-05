@@ -3997,29 +3997,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.02904,
-          47.28915
-        ]
-      },
-      "properties": {
-        "name": "TOUT EN RONDEUR",
-        "adresse": "39 Rue du Général de Gaulle",
-        "commune": "PAIMBOEUF",
-        "code_postal": "44560",
-        "id_tourinsoft": "RESTRESPDL044V50BM1H",
-        "latitude": 47.28915,
-        "longitude": -2.02904,
-        "telephone": "09 67 19 91 31",
-        "site_internet": "https://www.facebook.com/Terpaimboeuf/",
-        "lien_site": "🌐 [[https://www.facebook.com/Terpaimboeuf/|Site internet]]",
-        "lien_itineraire": "➡️ [[https://www.google.com/maps/dir/?api=1&destination=47.28915%2C-2.02904|M'y rendre]]"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.04534,
           47.20764
         ]
